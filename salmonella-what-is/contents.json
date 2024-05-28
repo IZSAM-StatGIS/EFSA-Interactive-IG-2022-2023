@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>Salmonella</i> can grow at temperatures between 5°C and 47°C, although its optimal temperature range is 35 to 37°C. It cannot grow at temperatures exceeding 47°C, but it can survive at higher temperatures of up to 70°C.  Below 5°C, <i>Salmonella</i> does not grow but can survive freezing.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<i>Salmonella</i> is a facultative anaerobe, meaning that it uses oxygen, but is capable of switching to fermentation if oxygen is absent.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>Salmonella</i> cannot survive in environments with a pH below 4.0 or above 9.0: it grows optimally in environments with a pH between 6.5 and 7.5.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>Salmonella</i> can grow in environments (food) with water activity exceeding 0.94 and an optimum water activity level of around 0.99; it can survive in dried foods, with low water activity, for years.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "Although <i>Salmonella</i> is generally inhibited in the presence of 3 to 4% sodium chloride, bacterial salt tolerance increases with increasing temperatures in the range of 10 to 30°C.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

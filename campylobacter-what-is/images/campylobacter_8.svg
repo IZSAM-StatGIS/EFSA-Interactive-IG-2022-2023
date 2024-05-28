@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316.417" height="116.945" viewBox="0 0 316.417 116.945">
+  <defs>
+    <filter id="Tracciato_23" x="0" y="0" width="316.417" height="116.945" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Tracciato_23)">
+    <path id="Tracciato_23-2" data-name="Tracciato 23" d="M1709.172-1772.041s13.959-9.331,37.5-10.863,43.462,2.212,62.209-4.168,36.187-19.7,36.187-19.7,35.773-31.038,79.165-42.584a391.955,391.955,0,0,1,83.354-12.274s-64.605,16.351-79.413,20.712-46.258,17.592-46.258,17.592-14.963,10.272-21.926,16.555-40.055,31.766-56.082,32.425-36.517-1.516-55.128,0-33.981,11.662-33.981,11.662a49.729,49.729,0,0,0-2.628-5.192A32.83,32.83,0,0,0,1709.172-1772.041Z" transform="translate(-1700.17 1867.63)" fill="#daf0de"/>
+  </g>
+</svg>

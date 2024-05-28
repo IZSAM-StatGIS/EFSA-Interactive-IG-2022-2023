@@ -1,0 +1,109 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "Variable, from weeks to years",
+      "text": "",
+      "collection": [
+        {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_lethargy_v2.svg"},
+        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
+        {"name": "Loss of appetite", "abstract": "", "img": "images/icons/ic_anorexia.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss_more.svg"},
+        {"name": "Low grade fluctuating fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Chest pain", "abstract": "", "img": "images/icons/ic_chest.svg"},
+        {"name": "Persistent moist cough", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        {"name": "Night sweats", "abstract": "", "img": "images/icons/ic_sweats.svg"},
+        {"name": "Vomiting and diarrhoea ", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"}
+      ],
+      "old":[
+        {"name": "Persistent moist cough", "abstract": "Occasionally with blood or sputum", "img": "images/icons/ic_cough.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Tuberculosis is an occupational disease, and individuals considered more at risk are:",
+      "collection": [
+        {"name": "Farmers", "abstract": "", "img": "images/icons/ic_farmer.svg"},
+        {"name": "Veterinarians", "abstract": "", "img": "images/icons/ic_veterinarias.svg"},
+        {"name": "Slaughterhouse workers", "abstract": "", "img": "images/icons/ic_butchers.svg"}
+      ],
+      "collectionFirstLevel": [
+        {"name": "People with weakened immune system", "abstract": "", "img": "images/icons/ic_immunecomp.svg"},
+        {"name": "People with comorbidities", "abstract": "", "img": "images/icons/ic_comorbidities.svg"},
+        {"name": "People with degenerative conditions", "abstract": "", "img": "images/icons/ic_people_degenerative_conditions_2.svg"},
+        {"name": "People suffering from malnutrition and poor living conditions", "abstract": "", "img": "images/icons/ic_people_suffering_malnutrition_poor_living_conditions.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Post-tuberculosis lung disease", "abstract": " (breathlessness and chronic cough) ", "img": "images/icons/ic_pneumonia.svg"},
+        {"name": "Psycho-social complications", "abstract": "", "img": "images/icons/ic_psychosocial.svg"}
+      ],
+      "old": [
+        {"name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
+        {"name": "Depression", "abstract": "", "img": "images/icons/ic_depression.svg"},
+        {"name": "Massive haemoptysis", "abstract": "", "img": "images/icons/ic_haemoptysis.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "",
+      "collection": [
+        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_cow.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_aloss.svg"},
+        {"name": "Low-grade fluctuating fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Moist cough", "abstract": "", "img": "images/icons/ic_acough_v2.svg"},
+        {"name": "Dyspnoea", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
+        {"name": "Alternating diarrhoea and constipation", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
+        {"name": "Enlarged and palpable superficial lymph nodes", "abstract": "", "img": "images/icons/ic_lymph.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "Mammalian vertebrates, such as:",
+      "collection": [
+        {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg", "customStyle":"height:100px; padding-top: 0px;"},
+        {"name": "Sheep", "abstract": "", "img": "images/icons/ic_sheep.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Goats", "abstract": "", "img": "images/icons/ic_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Deer", "abstract": "", "img": "images/icons/ic_deer.svg", "customStyle":"height:100px; padding-top: 0px;"},
+        {"name": "Swine", "abstract": "", "img": "images/icons/ic_swine_t.svg", "customStyle":"height:60px; padding-top: 40px;"},
+        {"name": "Camel", "abstract": "", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Wild boars", "abstract": "", "img": "images/icons/ic_wild_boar.svg", "customStyle":"height:60px; padding-top: 40px;"},
+        {"name": "Badgers", "abstract": "", "img": "images/icons/ic_badger.svg", "customStyle":"height:50px; padding-top: 50px;"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "No specific tuberculosis complications or sequelae are observed in animals, especially because farm animals found to be infected are usually culled.",
+      "collection": [
+      ]
+    }
+  }
+}

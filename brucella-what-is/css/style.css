@@ -1,0 +1,248 @@
+html{
+  min-width: 450px;
+  font-family: 'Verdana Pro', 'Verdana', sans-serif !important;
+}
+
+
+body{
+  width: 100vh;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("../images/bkgr.jpg");
+  background-size: cover;
+}
+
+h1{
+  color: #fff;
+  margin: 1.2rem 1.2rem 0 1.2rem;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.8rem;
+}
+
+h2 {
+  margin: 0 1.2rem 0 1.2rem;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.infographics-wrap{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /*background-color: #59a597;*/
+  /*background-color: #1f5780;*/
+}
+
+.c{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 10;
+  -webkit-transition : -webkit-filter 200ms ease-in;
+  /*filter: saturate(1.5) brightness(0.9);*/
+}
+
+.c1{
+  width: 120px;
+  transform: translate(-90px, -16px) rotate(-26deg);
+}
+
+.c2{
+  width: 118px;
+  transform: translate(-74px, -114px) rotate(-26deg);
+}
+
+.c3{
+  width: 170px;
+  transform: translate(-20px, -33px) rotate(-26deg);
+}
+
+.c4{
+  width: 123px;
+  transform: translate(26px, -165px) rotate(-26deg);
+}
+
+.c5{
+  width: 140px;
+  transform: translate(10px, -200px) rotate(-26deg);
+}
+
+.t{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 11;
+  font-size: .8rem;
+  color: #fff;
+}
+
+.t1 {
+  transform: translate(-52px, 78px);
+}
+
+.t2{
+  transform: translate(-21px, -36px);
+}
+
+.t3{
+  transform: translate(37px, 20px);
+}
+
+.t4{
+  transform: translate(56px, -86px);
+}
+
+.t5{
+  transform: translate(74px, -170px);
+}
+
+
+.ic{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 20;
+  cursor: pointer;
+}
+
+.ic-therm {
+  width: 17px;
+  transform: translate(-43px, 37px);
+}
+
+.ic-hum{
+  width: 27px;
+  transform: translate(-17px, -77px);
+}
+
+.ic-ph{
+  width: 32px;
+  transform: translate(32px, -21px) rotate(50deg);
+}
+
+.ic-sal{
+  width: 36px;
+  transform: translate(60px, -127px);
+}
+
+.ic-oxi{
+  width: 54px;
+  transform: translate(75px, -204px) rotate(8deg);
+}
+
+
+.ic-therm:hover + .c1, .ic-hum:hover + .c2, .ic-ph:hover + .c3, .ic-sal:hover + .c4, .ic-oxi:hover + .c5{
+  filter: saturate(0.75) brightness(1.2);
+}
+
+/****************** MODAL *******************/
+
+.modal{
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #1f5780;
+  background-image: url("../images/bkgr.jpg");
+  background-size: cover;
+  z-index: 100;
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.modal-box{
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  width: 70%;
+  left: 50%;
+  top: 50%;
+  max-height: 80vh;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  box-shadow: 0 0 14px #344a6acf;
+  transition: all 200ms ease-in;
+}
+
+.modal-close{
+  margin-top: -38px;
+  float: right;
+  font-family: 'Verdana', sans-serif;
+  cursor: pointer;
+}
+
+.modal-close img{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #ffce3a;
+  cursor: pointer;
+  -webkit-transition: transform 0.3s ease 0.8s, background-color 0.3s ease;
+  transition: transform 0.3s ease 0.8s, background-color 0.3s ease;
+  margin-right: 6px;
+}
+
+.modal-visual{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #20b08e;
+}
+
+.modal-contents{
+  box-sizing: border-box;
+  max-height: 70%;
+  width: 100%;
+  top: 30%;
+  padding: 2rem;
+  overflow: scroll;
+  scrollbar-width: none;  /* Firefox */
+}
+
+.modal-contents::-webkit-scrollbar {
+  display: none;
+}
+
+.modal-title h2{
+  font-size: 1.2rem;
+  color: #000;
+  margin: 0 0 0.4rem 0;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.modal-contents .modal-content{
+  font-size: .9rem;
+  overflow: hidden;
+}
+
+.modal-visual-img{
+  padding: 2rem;
+  height: 50px;
+  max-height: 150px;
+}
+
+.d-block{
+  display: block;
+}
+
+.inn{
+  opacity: 1;
+}
+
+.inn .modal-box{
+  top: 50%;
+}
+
+.min-opacity{
+  opacity: 0.2;
+}

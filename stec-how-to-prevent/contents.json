@@ -1,0 +1,56 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg" ,"title": "<b>Good farming practices</b> and <b>hygiene</b> at farm", "info": ""},
+
+      {"img": "images/icons/ic_good agricultural practices_2.svg" ,"title": "<b>Good agricultural</b> practices", "info": ""},
+      {"img": "images/icons/ic_protect_freshwater2.svg" ,"title": "<b>Protection of freshwater</b> sources and untreated drinking water supplies from contamination", "info": ""},
+      {"img": "images/icons/ic_practices_at_milking2.svg" ,"title": "<b>Good hygiene</b> practices at milking", "info": ""},
+
+      {"img": "images/icons/ic_training_1.svg" ,"title": "Continuous <b>biosecurity training</b> for farm managers and farm workers", "info": ""},
+      {"img": "images/icons/ic_vaccine.svg" ,"title": "Implementing <b>vaccination programmes</b>", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "", "title": "<b>Complying</b> with <b>microbiological food safety criterion</b> according to <b>HACCP</b> programme", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official <b>controls</b> by competent authorities", "info": ""},
+      {"img": "images/icons/ic_process_food_safety.svg", "title": "<b>Complying</b> with process food safety criterion verified by competent authorities", "info": ""},
+      {"img": "images/icons/ic_applying_good_hygiene.svg", "title": "<b>Applying good hygiene</b> practices for meat production ", "info": ""},
+      {"img": "images/icons/ic_approved_bactericidal_treatment.svg", "title": "<b>Applying approved</b> bactericidal treatment to foods", "info": ""},
+
+      {"img": "images/icons/ic_training_1.svg", "title": "<b>Training properly</b> the food handlers", "info": ""},
+      {"img": "images/icons/ic_food_prev.svg", "title": "Implementing <b>strict personal hygiene</b> to prevent contacts between food and infected food handlers", "info": ""},
+
+      {"img": "images/icons/ic_constant_maintenance.svg", "title": "<b>Constant maintenance</b> of the cold chain during handling, transport and storage of food items", "info": ""}    
+    ],
+    "old":[
+      {"img": "images/icons/ic_gloves_more.svg", "title": "<b>Complying</b> with process <b>hygiene criteria</b>", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg", "title": "<b>Regular</b> and <b>proper official</b> controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_check.svg", "title": "<b>Complying</b> with food <b>safety criterion</b>", "info": ""},
+      {"img": "images/icons/ic_temp.svg", "title": "Constant <b>maintenance</b> of the <b>cold chain</b> during handling, transport and storage of food items", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_handleand_prepare_food.svg", "title": "Handling and preparing food in a proper way", "info": "", "customStyle": "1"},
+      {"img": "images/icons/ic_avoiding_cross_contamination.svg", "title": "Avoiding cross-contamination between raw and ready-to-eat products", "info": "", "customStyle": "1"},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "<b>Avoiding</b> consuming <b>raw milk</b> and products thereof from non controlled producers", "info": "", "customStyle": "1"},
+      {"img": "images/icons/ic_igene.svg", "title": "<b>Washing</b>, peeling or cooking fruits and vegetables", "info": ""},
+      {"img": "images/icons/ic_avoid_swallowing_water.svg", "title": "Avoid swallowing water while swimming in untreated waters", "info": ""},
+      {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "Limiting the non-foodborne transmission at home, <b>washing hands</b> carefully <b>after</b>:<br><ul><li>Using the toilet</li><li>Changing nappies (diapers)</li><li>Being in contact with animals</li><li>Handling raw vegetables, fruit, or meat</li></ul>", "info": ""}
+    ],
+    "old":[
+      {"img": "images/icons/ic_avoid_raw_meat.svg", "title": "<b>Avoiding</b> consuming <b>raw meat</b>", "info": ""}
+    ]
+  }
+}

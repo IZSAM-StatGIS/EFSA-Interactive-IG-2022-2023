@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 53.2 110.8" style="enable-background:new 0 0 53.2 110.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1F6A99;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.5001;stroke-miterlimit:4.0006;}
+</style>
+<g id="ic_therm" transform="matrix(1, 0.017, -0.017, 1, 1.924, -0.171)">
+	<circle id="Ellisse_7" class="st0" cx="22.2" cy="88" r="22.2"/>
+	<path id="Rettangolo_3" class="st0" d="M16.8,0l10.9,0c3.9,0,7,3.1,7,7l0,0l0,63.5c0,0.6-0.4,1-1,1H9.8l0,0V7
+		C9.8,3.1,12.9,0,16.8,0z"/>
+	<circle id="Ellisse_8" class="st1" cx="22.2" cy="88" r="17.6"/>
+	<g id="Rettangolo_4" transform="translate(52.154 62.339) rotate(90)">
+		<path class="st1" d="M1.7,0L1.7,0c1,0,1.7,0.8,1.7,1.7c0,0,0,0,0,0v13.7l0,0H0l0,0L0,1.7C0,0.8,0.8,0,1.7,0z"/>
+		<path class="st2" d="M1.7,0.2L1.7,0.2c0.8,0,1.5,0.7,1.5,1.5c0,0,0,0,0,0v13.4l0,0H0.2l0,0l0-13.4C0.2,0.9,0.9,0.2,1.7,0.2
+			C1.7,0.2,1.7,0.2,1.7,0.2z"/>
+	</g>
+	<g id="Rettangolo_7" transform="translate(52.154 48.786) rotate(90)">
+		<path class="st1" d="M1.7,0L1.7,0c1,0,1.7,0.8,1.7,1.7c0,0,0,0,0,0v13.7l0,0H0l0,0L0,1.7C0,0.8,0.8,0,1.7,0z"/>
+		<path class="st2" d="M1.7,0.2L1.7,0.2c0.8,0,1.5,0.7,1.5,1.5c0,0,0,0,0,0v13.4l0,0H0.3l0,0V1.7C0.3,0.9,0.9,0.2,1.7,0.2
+			C1.7,0.2,1.7,0.2,1.7,0.2z"/>
+	</g>
+	<g id="Rettangolo_5" transform="translate(49.131 55.563) rotate(90)">
+		<path class="st1" d="M1.7,0L1.7,0c1,0,1.7,0.8,1.7,1.7c0,0,0,0,0,0v10.7l0,0H0l0,0L0,1.7C0,0.8,0.8,0,1.7,0z"/>
+		<path class="st2" d="M1.7,0.3L1.7,0.3c0.8,0,1.5,0.7,1.5,1.5c0,0,0,0,0,0v10.4l0,0H0.2l0,0V1.7C0.2,0.9,0.9,0.3,1.7,0.3
+			C1.7,0.3,1.7,0.3,1.7,0.3z"/>
+	</g>
+	<g id="Rettangolo_6" transform="translate(49.131 42.01) rotate(90)">
+		<path class="st1" d="M1.7,0L1.7,0c1,0,1.7,0.8,1.7,1.7c0,0,0,0,0,0l0,10.7l0,0H0l0,0L0,1.7C0,0.8,0.8,0,1.7,0z"/>
+		<path class="st2" d="M1.7,0.3L1.7,0.3c0.8,0,1.5,0.7,1.5,1.5c0,0,0,0,0,0l0,10.4l0,0H0.3l0,0V1.7C0.3,0.9,0.9,0.3,1.7,0.3
+			C1.7,0.3,1.7,0.3,1.7,0.3z"/>
+	</g>
+	<path id="Tracciato_7" class="st1" d="M13.6,40.1c0,0,2.8-1,8.7-0.6s8.5-1.3,8.5-1.3l0,48.6H13.6L13.6,40.1z"/>
+</g>
+</svg>

@@ -1,0 +1,109 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "From 1 week to several months",
+      "text": "",
+      "collection": [
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+
+        {"name": "Coughing and chest pain", "abstract": "", "img": "images/icons/ic_cough_v2.svg"},
+        
+        {"name": "Weakness", "abstract": "", "img": "images/icons/ic_weak.svg"},
+        {"name": "Headache", "abstract": "", "img": "images/icons/ic_headache.svg"},
+        {"name": "Joint, muscle, or back pain", "abstract": "", "img": "images/icons/ic_joint pain.svg"},
+        {"name": "Gastro-intestinal problems", "abstract": "", "img": "images/icons/ic_gastrointestinal_problems.svg"}
+      ],
+      "old":[
+        {"name": "Anorexia", "abstract": "", "img": "images/icons/ic_anorexia.svg"},
+        {"name": "Weight loss", "abstract": "", "img": "images/icons/ic_loss.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Brucellosis affects people of all ages and both genders:",
+      "collection": [
+        {"name": "Farmers and artificial insemination technicians, dairy and rendering plants workers", "abstract": "", "img": "images/icons/ic_artificial.svg"},
+        {"name": "Butchers, meat-packing employees, personnel in slaughterhouses", "abstract": "", "img": "images/icons/ic_butchers_opened.svg"},
+        {"name": "Hunters", "abstract": "", "img": "images/icons/ic_hunter.svg"},
+        {"name": "Veterinarians and laboratory personnel", "abstract": "", "img": "images/icons/ic_veterinarias.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "These symptoms may persist for long period of time:",
+      "collection": [
+        {"name": "Chronic Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Orchitis and epididymitis", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
+        {"name": "Endocarditis", "abstract": "", "img": "images/icons/ic_endocarditis.svg"},
+        {"name": "Neurologic symptoms", "abstract": "", "img": "images/icons/ic_meningits.svg"}
+      ],
+      "old":[
+        {"name": "Swelling of the testicle and scrotum area", "abstract": "", "img": "images/icons/ic_swelling_testicle.svg"},
+        {"name": "Swelling of the heart", "abstract": "Endocarditis", "img": "images/icons/ic_swelling_heart.svg"},
+        {"name": "Recurrent fevers", "abstract": "", "img": "images/icons/ic_recurrent_fever.svg"},
+        {"name": "Chronic fatigue", "abstract": "", "img": "images/icons/ic_chronic_fatigue.svg"},
+        {"name": "Depression", "abstract": "", "img": "images/icons/ic_depression.svg"},
+        {"name": "Swelling of the liver and/or spleen", "abstract": "", "img": "images/icons/ic_swelling_liver.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "In animals, the disease is generally associated with reproductive disorders, such as:",
+      "collection": [
+        {"name": "Abortion and stillbirth", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+        {"name": "Retained placenta", "abstract": "", "img": "images/icons/ic_retained_placenta.svg"},
+        {"name": "Birth of weak animals", "abstract": "", "img": "images/icons/ic_birthofweakanimals.svg"},
+        {"name": "Orchitis and epididymitis", "abstract": "", "img": "images/icons/ic_orchitis_and_epididymitis.svg"},
+        {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Cattle", "abstract": "(<i><nobr>B. abortus</nobr></i>, <i><nobr>B. melitensis</nobr></i>, <i><nobr>B. suis</nobr></i>)", "img": "images/icons/ic_cow.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Sheep and goats", "abstract": "(<i><nobr>B. melitensis</nobr></i>)", "img": "images/icons/ic_sheep_goat.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Dogs", "abstract": "(<i><nobr>B. canis</nobr></i>, <i><nobr>B. abortus</nobr></i>, <i><nobr>B. melitensis</nobr></i>, <i><nobr>B. suis</nobr></i>)", "img": "images/icons/ic_pets_2.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Domestic pigs", "abstract": "(<i><nobr>B. abortus</nobr></i>, <i><nobr>B. melitensis</nobr></i>, <i><nobr>B. suis</nobr></i>)", "img": "images/icons/ic_swine.svg", "customStyle":"height:80px; padding-top: 20px;"},
+        {"name": "Horses", "abstract": "(<i><nobr>B. abortus</nobr></i>, <i><nobr>B. suis</nobr></i>)", "img": "images/icons/ic_horses.svg", "customStyle":"height:100px; padding-top: 0px;"},
+        {"name": "Camelids", "abstract": "(<i><nobr>B. abortus</nobr></i>, <i><nobr>B. melitensis</nobr></i>, <i><nobr>B. suis</nobr></i>)", "img": "images/icons/ic_camel.svg", "customStyle":"height:80px; padding-top: 20px;"}
+         
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Mastitis", "abstract": "", "img": "images/icons/ic_mastits.svg"},
+        {"name": "In horses, oozing skin lesions called “fistulous withers”", "abstract": "", "img": "images/icons/ic_oozing.svg"}
+      ]
+    }
+  }
+}

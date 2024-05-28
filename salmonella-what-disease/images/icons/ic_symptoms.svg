@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.213" height="195.448" viewBox="0 0 93.213 195.448">
+  <defs>
+    <filter id="Ellisse_9" x="17.866" y="0" width="60.879" height="60.879" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15" x="0" y="48.545" width="93.213" height="146.904" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="symptoms" transform="translate(-1579.394 -151.276)">
+    <g id="Raggruppa_10" data-name="Raggruppa 10" transform="translate(675.394 -480.561)">
+      <g transform="matrix(1, 0, 0, 1, 904, 631.84)" filter="url(#Ellisse_9)">
+        <circle id="Ellisse_9-2" data-name="Ellisse 9" cx="21.439" cy="21.439" r="21.439" transform="translate(26.87 6)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 904, 631.84)" filter="url(#Tracciato_15)">
+        <path id="Tracciato_15-2" data-name="Tracciato 15" d="M8.954,0h57.3a8.954,8.954,0,0,1,8.954,8.954V59.1a8.954,8.954,0,0,1-8.954,8.954H62.844V128.9h-50.2V68.049H8.954A8.954,8.954,0,0,1,0,59.1V8.954A8.954,8.954,0,0,1,8.954,0Z" transform="translate(9 54.54)" fill="#fff"/>
+      </g>
+    </g>
+    <circle id="Ellisse_11" data-name="Ellisse 11" cx="11" cy="11" r="11" transform="translate(1615 192)" fill="#db7373"/>
+    <circle id="Ellisse_12" data-name="Ellisse 12" cx="11" cy="11" r="11" transform="translate(1622 222)" fill="#db7373"/>
+    <circle id="Ellisse_13" data-name="Ellisse 13" cx="11" cy="11" r="11" transform="translate(1615 252)" fill="#db7373"/>
+  </g>
+</svg>

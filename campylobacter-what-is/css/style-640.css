@@ -1,0 +1,108 @@
+@media (min-width: 640px) {
+
+  h1{
+    margin: 2rem 2rem 0 2rem;
+    font-size: 2.2rem;
+  }
+
+  h2{
+    margin: 0 2rem;
+    font-size: 1.2rem;
+  }
+
+
+  .c1{
+    width: 111px;
+    transform: translate(-250px, 9px);
+  }
+
+  .c2{
+    width: 161px;
+    transform: translate(-224px, -62px);
+  }
+
+  .c3{
+    width: 154px;
+    transform: translate(-77px, -60px);
+  }
+
+  .c4{
+    width: 115px;
+    transform: translate(-13px, -159px);
+  }
+
+  .c5{
+    width: 156px;
+    transform: translate(43px, -192px);
+  }
+
+  .c6{
+    width: 183px;
+    transform: translate(26px, -202px);
+  }
+
+  .c7{
+    width: 92px;
+    transform: translate(-281px, 185px);
+  }
+
+  .c8{
+    width: 150px;
+    transform: translate(191px, -218px);
+  }
+
+  .t{
+    font-size: .9rem;
+  }
+
+  .t1{
+    transform: translate(-219px, 132px);
+  }
+
+  .t2{
+    transform: translate(-151px, 14px);
+  }
+
+  .t3 {
+    transform: translate(3px, 26px);
+  }
+
+  .t4{
+    transform: translate(16px, -68px);
+  }
+
+  .t5 {
+      transform: translate(97px, -136px);
+  }
+
+  .ic-therm {
+    width: 31px;
+    transform: translate(-216px, 57px);
+  }
+
+  .ic-hum{
+    width: 38px;
+    transform: translate(-151px, -40px);
+  }
+
+  .ic-sal {
+    width: 48px;
+    transform: translate(17px, -120px);
+  }
+
+  .ic-ph{
+    width: 43px;
+    transform: translate(-19px, -25px) rotate(29deg);
+  }
+
+  .ic-oxi{
+    width: 92px;
+    transform: translate(78px, -189px) rotate(11deg);
+  }
+
+  .modal-box {
+    width: 80%;
+    max-height: 80vh;
+  }
+
+}

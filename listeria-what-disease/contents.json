@@ -1,0 +1,137 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "Usually 1-2 weeks, until 90 days",
+      "text": "Symptoms in case of invasive listeriosis tipically include:",
+      "collections": [
+        {
+          "subjects": [
+            {"name": "Pregnant women", "img": "images/icons/ic_preg.svg"}
+          ],
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Flu-like symptoms", "abstract": "(Such as muscle aches and fatigue)", "img": "images/icons/ic_midflu.svg"}
+          ]
+        },
+        {
+          "subjects": [
+            {"name": "People who are not pregnant", "img": "images/icons/ic_non_preg.svg"}
+          ],
+          "collection": [
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Flu-like symptoms", "abstract": "(Such as muscle aches and fatigue)", "img": "images/icons/ic_midflu.svg"},
+            {"name": "Headache", "abstract": "", "img": "images/icons/ic_menincef.svg"},
+            {"name": "Stiff neck", "abstract": "", "img": "images/icons/ic_neck.svg"},
+            {"name": "Confusion", "abstract": "", "img": "images/icons/ic_confusion.svg"},
+            {"name": "Loss of balance", "abstract": "", "img": "images/icons/ic_balance.svg"},
+            {"name": "Seizures", "abstract": "", "img": "images/icons/ic_seizures.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "Severe illness occurs preferentially in individuals with a weakened immune system.",
+      "collection": [
+        {"name": "People with haematological cancers", "abstract": "", "img": "images/icons/ic_immune.svg"},
+        {"name": "People infected with HIV", "abstract": "", "img": "images/icons/ic_hiv.svg"},
+        {"name": "Organ transplant patients", "abstract": "", "img": "images/icons/ic_transplant.svg"},
+        {"name": "People with kidney or liver failure", "abstract": "", "img": "images/icons/ic_kidney.svg"},
+        {"name": "Pregnant women and newborns", "abstract": "", "img": "images/icons/ic_pregnant.svg"},
+        {"name": "People with inflammatory diseases", "abstract": "", "img": "images/icons/ic_inflammatory.svg"},
+        {"name": "Non-haematological cancer patients", "abstract": "", "img": "images/icons/ic_cancer.svg"},
+        {"name": "People over 65 years of age", "abstract": "without other underlying conditions", "img": "images/icons/ic_over.svg"},
+        {"name": "Elderly", "abstract": "", "img": "images/icons/ic_elderly.svg"},
+        {"name": "People with diabetes", "abstract": "", "img": "images/icons/ic_diabetic.svg"},
+        {"name": "People with heart disease", "abstract": "", "img": "images/icons/ic_heart.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collections": [
+        {
+          "subjects": [],
+          "collection": [
+            {"name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
+            {"name": "Meningitis", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+            {"name": "Meningoencephalitis", "abstract": "", "img": "images/icons/ic_menincef.svg"},
+            {"name": "Spontaneous abortion (miscarriage)", "abstract": "(Pregnant women)", "img": "images/icons/ic_abortion.svg"},
+            {"name": "Intrauterine death (stillbirth)", "abstract": "(Pregnant women)", "img": "images/icons/ic_intrauterine.svg"},
+            {"name": "Premature birth", "abstract": "(Pregnant women)", "img": "images/icons/ic_premature.svg"},
+            {"name": "Neonatal listeriosis", "abstract": "(In newborns) ", "img": "images/icons/ic_neonatal.svg"}
+          ]
+        }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Animals often do not develop symptoms following <i>Listeria</i> infection. Exceptions include rabbits and chinchillas.",
+      "collections": [
+        {
+          "subjects": [
+            {"name": "Rabbits", "img": "images/icons/ic_rabbit.svg"},
+            {"name": "Chincillas", "img": "images/icons/ic_chinchilla.svg"}
+          ],
+          "collection": [
+            {"name": "Gastrointestinal signs", "abstract": "", "img": "images/icons/ic_inflammatory.svg"},
+            {"name": "Metritis", "abstract": "Inflammation of the uterus.", "img": "images/icons/ic_metritis.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Immunocompromised", "abstract": "", "img": "images/icons/ic_immunecomp.svg"},
+        {"name": "Predisposing diseases", "abstract": "", "img": "images/icons/ic_cancer.svg"},
+        {"name": "Environmental stress", "abstract": "", "img": "images/icons/ic_env_stress.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "In wild and domestic animals, infection is most often asymptomatic and without consequences (“healthy carriers”).",
+      "collections": [
+        {
+          "subjects": [
+            {"name": "Bovines", "img": "images/icons/ic_cow.svg"},
+            {"name": "Sheep", "img": "images/icons/ic_sheep.svg"},
+            {"name": "Goats", "img": "images/icons/ic_goat.svg"}
+          ],
+          "collection": [
+            {"name": "Encephalitis / rhombencephalitis", "abstract": "", "img": "images/icons/ic_menincef.svg"},
+            {"name": "Mastitis", "abstract": "", "img": "images/icons/ic_mastitis.svg"},
+            {"name": "Abortion", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
+          ]
+        }
+      ]
+    }
+  }
+}

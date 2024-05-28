@@ -1,0 +1,116 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "2 to 5 days",
+      "text": "",
+      "collections": [
+        {
+          "subjects": [],
+          "collection": [
+            {"name": "Diarrhoea", "abstract": "Occasionally with mucus or blood in the stools", "img": "images/icons/ic_diarrhoea.svg"},
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+            {"name": "Abdominal cramps", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Toddler", "abstract": "(1 to 4 years)", "img": "images/icons/ic_toddler.svg"},
+        {"name": "Young adults", "abstract": "(15 to 24 years)", "img": "images/icons/ic_young.svg"},
+        {"name": "Elderly", "abstract": "", "img": "images/icons/ic_elderly.svg"},
+        {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_immunecomp.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collections": [
+          {
+            "subjects": [],
+            "collection": [
+              { "name": "Irritable bowel syndrome", "abstract": "(including Crohn’s disease and ulcerative colitis)", "img": "images/icons/ic_bowel.svg"},
+              { "name": "Guillain-Barré syndrome", "abstract": "", "img": "images/icons/ic_gb.svg"},
+              { "name": "Miller Fisher syndrome", "abstract": "", "img": "images/icons/ic_mf.svg"},
+              { "name": "Reactive arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+              { "name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"}
+            ]
+          }
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "In pets, <i>Campylobacter</i> rarely cause disease with the following typical symptoms.",
+      "collections": [
+        {
+          "subjects": [
+            {"name": "Pets", "img": "images/icons/ic_pets.svg"}
+          ],
+          "collection": [
+            {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
+            {"name": "Lethargy", "abstract": "", "img": "images/icons/ic_lethargy.svg"},
+            {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"}
+          ]
+        }
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Cattle", "abstract": "", "img": "images/icons/ic_cow.svg"},
+        {"name": "Swine", "abstract": "", "img": "images/icons/ic_swine.svg"},
+        {"name": "Sheep", "abstract": "", "img": "images/icons/ic_sheep.svg"},
+        {"name": "Dogs", "abstract": "", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Cats", "abstract": "", "img": "images/icons/ic_pets.svg"},
+        {"name": "Wild mammals", "abstract": "", "img": "images/icons/ic_deer.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "In sheep, goats, cattle, <i>Campylobacter</i> rarely cause the following complications.",
+      "collections": [
+        {
+          "subjects": [
+            {"name": "Sheep", "img": "images/icons/ic_sheep.svg"},
+            {"name": "Goats", "img": "images/icons/ic_goat.svg"},
+            {"name": "Cattle", "img": "images/icons/ic_cow.svg"}
+          ],
+          "collection": [
+            {"name": "Infertility", "abstract": "", "img": "images/icons/ic_infertility.svg"},
+            {"name": "Abortion", "abstract": "", "img": "images/icons/ic_a_abortion.svg"},
+            {"name": "Mastitis", "abstract": "", "img": "images/icons/ic_mastitis.svg"}
+          ]
+        }
+      ]
+    }
+  }
+}

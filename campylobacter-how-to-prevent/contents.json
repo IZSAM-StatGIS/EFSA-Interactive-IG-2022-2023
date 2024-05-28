@@ -1,0 +1,42 @@
+{
+
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_clothes.svg" ,"title": "Use of <b>farm-specific footwear</b> and <b>clothing</b>", "info": ""},
+      {"img": "images/icons/ic_fac.svg" ,"title": "Presence of <b>dedicated changing facilities</b> for the <b>farm workers</b>", "info": ""},
+      {"img": "images/icons/ic_bird.svg" ,"title": "<b>Slaughtering</b> at <b>younger ages</b>", "info": "35 days"},
+      {"img": "images/icons/ic_flock.svg" ,"title": "<b>Discontinuing</b> the practice of <b>flock thinning</b>", "info": "Rearing the birds to the maximum permitted stocking density before removing a proportion of them"},
+      {"img": "images/icons/ic_training.svg" ,"title": "Continuous <b>biosecurity training</b> for <b>farm managers</b> and <b>farm workers</b>", "info": ""},
+      {"img": "images/icons/ic_fly.svg" ,"title": "<b>Fly control</b> on <b>farms</b>", "info": ""}
+    ]
+  },
+
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_igene.svg", "title": "Good <b>hygiene practices</b> for <b>meat production</b>", "info": ""},
+      {"img": "images/icons/ic_gloves_more.svg", "title": "Good <b>hygiene practices</b> for <b>food preparation</b>", "info": ""},
+      {"img": "images/icons/ic_manuf.svg", "title": "Good <b>manufacturing practices</b> for <b>meat</b> and <b>meat products</b>", "info": ""},
+      {"img": "images/icons/ic_book.svg", "title": "<b>Compliance</b> with <b>process hygiene criteria (PHC)</b>", "info": ""},
+      {"img": "images/icons/ic_training.svg", "title": "Continuous <b>food safety training</b> for <b>food business operators</b>", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg", "title": "Proper <b>food handling processes</b>", "info": ""},
+      {"img": "images/icons/ic_training.svg", "title": "Continuous <b>biosecurity training</b> for <b>food business operators</b>", "info": ""},
+      {"img": "images/icons/ic_food_prev.svg", "title": "Strict <b>personal hygiene</b> to <b>prevent contacts</b> between food and infected food handlers", "info": ""},
+      {"img": "images/icons/ic_temp.svg", "title": "<b>Constant maintenance</b> of the <b>cold chain</b> during the handling, transport and storage of food items", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_key.svg", "title": "the<br><b>WHO Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
+      {"img": "images/icons/ic_meat_wash.svg", "title": "<b>Avoid</b> the practice of <b>washing raw meat</b>", "info": ""},
+      {"img": "images/icons/ic_priv_water.svg", "title": "<b>Avoid</b> the <b>use of private water</b> wells for <b>drinking</b> or <b>food preparation</b>", "info": ""}
+    ]
+  }
+}

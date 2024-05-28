@@ -1,0 +1,46 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg", "title": "Implementing <b>National Control Programmes</b>", "info": ""},
+      {"img": "images/icons/ic_bird.svg" ,"title": "<b>Monitoring animals</b>, both upon arrival and throughout rearing", "info": ""},
+      {"img": "images/icons/ic_fence.svg" ,"title": "<b>Monitoring</b> the <b>environment</b> where animals are farmed", "info": ""},
+      {"img": "images/icons/ic_feed.svg" ,"title": "<b>Monitoring</b> the <b>supplied feed/water</b>", "info": ""},
+      {"img": "images/icons/ic_rod.svg" ,"title": "<b>Controlling rodents</b> and <b>pests</b>", "info": ""},
+      {"img": "images/icons/ic_vaccine.svg" ,"title": "Implementing <b>vaccination programmes</b>", "info": ""},
+      {"img": "images/icons/ic_flock.svg" ,"title": "Culling and/or <b>slaughtering infected flocks</b>", "info": ""},
+      {"img": "images/icons/ic_training.svg" ,"title": "Continuous <b>biosecurity training</b> for <b>farm managers</b> and <b>farm workers</b>", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_book.svg", "title": "<b>Complying</b> with <b>microbiological criteria</b> according to <b>HACCP</b> programme", "info": ""},
+      {"img": "images/icons/ic_mag.svg", "title": "Regular and proper <b>official controls</b> by <b>competent authorities</b>", "info": ""},
+      {"img": "images/icons/ic_gloves.svg", "title": "<b>Complying</b> with process <b>hygiene criteria</b>", "info": ""},
+      {"img": "images/icons/ic_food_making.svg", "title": "Implementing <b>specific design</b> for <b>food-making facilities</b>", "info": ""},
+      {"img": "images/icons/ic_surface.svg", "title": "Implementing <b>specific design</b> for <b>surfaces</b>, <b>tools</b> and <b>machineries</b>", "info": ""},
+      {"img": "images/icons/ic_specific.svg", "title": "Making <b>surfaces “unfriendly”</b> for <i>Salmonella</i>", "info": ""},
+      {"img": "images/icons/ic_temp.svg", "title": "<b>Maintaining constantly</b> the <b>cold chain</b>", "info": ""},
+      {"img": "images/icons/ic_training.svg", "title": "<b>Training properly</b> the <b>food handlers</b>", "info": ""},
+      {"img": "images/icons/ic_food_prev.svg", "title": "Implementing <b>strict personal hygiene</b> to prevent contacts between food and infected food handlers", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_mag.svg", "title": "Regular and proper <b>official controls</b> by <b>competent authorities</b>", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "Complying with <b>food safety criteria</b>", "info": ""},
+      {"img": "images/icons/ic_temp.svg", "title": "<b>Maintaining constantly</b> the <b>cold chain</b>", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour", "info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "In order to limit the non foodborne transmission at home, <b>washing hands</b> carefully <b>after</b>:<br><ul><li>Using the toilet</li><li>Changing diapers</li><li>Being in contact with animals</li></ul>", "info": ""},
+      {"img": "images/icons/ic_eggs.svg", "title": "Avoiding consuming dishes with <b>raw eggs</b>", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "Avoiding consuming <b>unpasteurized milk</b> and <b>dairy products</b>", "info": ""}
+    ]
+  }
+}

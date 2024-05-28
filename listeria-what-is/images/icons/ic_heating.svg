@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 86.3" style="enable-background:new 0 0 90 86.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Tracciato_50);}
+	.st1{fill:#FFFFFF;}
+	.st2{filter:url(#Tracciato_51);}
+	.st3{filter:url(#Tracciato_52);}
+	.st4{fill:#1F6A99;}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="86.261" id="Tracciato_52" width="46.925" x="0" y="0">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur-3" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur-3" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="86.261" id="Tracciato_51" width="46.925" x="22.13" y="0">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur-2" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur-2" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<filter  filterUnits="userSpaceOnUse" height="86.261" id="Tracciato_50" width="46.925" x="43.029" y="0">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g id="ic_heating" transform="translate(-1075.948 -504.965)">
+	<g transform="matrix(1, 0, 0, 1, 1075.95, 504.97)" class="st0">
+		<path id="Tracciato_50-2_00000023254487608817565550000007318492383792076987_" class="st1" d="M74.6,6H58.9c0,0-8.2,6-6.7,18
+			s11.1,17.3,12.7,29.9c1,7.4-1.2,14.8-6.1,20.4h15.8c4.9-5.7,7.1-13.2,6.1-20.7C79,41,69.5,35.7,68,23.8S74.6,6,74.6,6z"/>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1075.95, 504.97)" class="st2">
+		<path id="Tracciato_51-2_00000134213195961164472090000017265141312572207009_" class="st1" d="M53.7,6H38c0,0-8.2,6-6.7,18
+			s11.1,17.3,12.7,29.9c1,7.4-1.2,14.8-6.1,20.4h15.8c4.9-5.7,7.1-13.2,6.1-20.7C58.2,41,48.6,35.7,47.1,23.8S53.7,6,53.7,6z"/>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 1075.95, 504.97)" class="st3">
+		<path id="Tracciato_52-2_00000095301890246784407950000016066730921808149930_" class="st1" d="M31.6,6H15.8c0,0-8.2,6-6.7,18
+			s11.1,17.3,12.7,29.9c1,7.4-1.2,14.8-6.1,20.4h15.8c4.9-5.7,7.1-13.2,6.1-20.7C36,41,26.5,35.7,25,23.8C23.4,11.9,31.6,6,31.6,6z"
+			/>
+	</g>
+	<path id="Tracciato_53" class="st4" d="M1103,512.8h-10.1c0,0-6,5.3-5.2,15c0.8,9.8,12.5,18.7,13,31.6s-5.3,18.4-5.3,18.4h10.2
+		c0,0,6.4-6.5,5.3-18.6c-1.1-12.2-13.1-19.5-13.4-31.9C1097.5,517.3,1103,512.8,1103,512.8z"/>
+	<path id="Tracciato_54" class="st4" d="M1125.2,512.6h-10.1c0,0-6,5.3-5.2,15c0.8,9.8,12.5,18.7,13,31.6s-5.3,18.4-5.3,18.4h10.2
+		c0,0,6.4-6.5,5.3-18.6c-1.1-12.2-13.1-19.5-13.4-31.9C1119.7,517.1,1125.2,512.6,1125.2,512.6z"/>
+	<path id="Tracciato_55" class="st4" d="M1146.2,512.6h-10.1c0,0-6,5.3-5.2,15c0.8,9.8,12.5,18.7,13,31.6s-5.3,18.4-5.3,18.4h10.2
+		c0,0,6.4-6.5,5.3-18.6c-1.1-12.2-13.1-19.5-13.4-31.9C1140.7,517.1,1146.2,512.6,1146.2,512.6z"/>
+</g>
+</svg>

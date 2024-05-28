@@ -1,0 +1,23 @@
+@media (min-width: 769px) {
+    .main h1 {
+        font-size: 4.5em;
+        line-height: 3.8rem;
+    }
+
+    .level-name {
+        font-size: 2.8rem;
+    }
+
+    .footer-container {
+        display: none;
+    }
+
+    .txt-cont {
+        font-size: 1.2rem;
+    }
+
+    .main.level-selected .card-container{
+        margin: 3rem 1.5rem 9rem 1.5rem;
+    }
+
+}

@@ -1,0 +1,298 @@
+html{
+  min-width: 450px;
+  font-family: 'Verdana Pro', 'Verdana', sans-serif !important;
+}
+
+
+body{
+  width: 100vh;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("../images/bkgr.jpg");
+  background-size: cover;
+}
+
+h1{
+  color: #fff;
+  margin: 1.2rem 1.2rem 0 1.2rem;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.8rem;
+}
+
+h2 {
+  margin: 0 1.2rem 0 1.2rem;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.infographics-wrap{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  /*background-color: #59a597;*/
+  /*background-color: #1f5780;*/
+}
+
+.c{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 10;
+  -webkit-transition : -webkit-filter 200ms ease-in;
+  /*filter: saturate(1.5) brightness(0.9);*/
+}
+
+.c1{
+  width: 93px;
+  transform: translate(-112px, 100px) rotate(-26deg);
+}
+
+.c2{
+  width: 101px;
+  transform: translate(-82px, 39px) rotate(-26deg);
+}
+
+.c3{
+  width: 100px;
+  transform: translate(-41px, -22px) rotate(-26deg);
+}
+
+.c4{
+  width: 108px;
+  transform: translate(-12px, -89px) rotate(-26deg);
+}
+
+.c5{
+  width: 98px;
+  transform: translate(26px, -145px) rotate(-26deg);
+}
+
+.c6{
+  width: 90px;
+  transform: translate(36px, -298px) rotate(-26deg);
+}
+
+.c7{
+  width: 110px;
+  transform: translate(-118px, -222px) rotate(-26deg);
+}
+
+.c8{
+  width: 60px;
+  transform: translate(-109px, -175px) rotate(-26deg);
+}
+
+.c9{
+  width: 60px;
+  transform: translate(-142px, -34px) rotate(-26deg);
+}
+
+.c10{
+  width: 160px;
+  transform: translate(-270px, 132px) rotate(-26deg);
+}
+
+.c11{
+  width: 90px;
+  transform: translate(-51px, 137px) rotate(-26deg);
+}
+
+.c12{
+  width: 90px;
+  transform: translate(40px, 59px) rotate(-26deg);
+}
+
+.c13{
+  width: 170px;
+  transform: translate(51px, -3px) rotate(-26deg);
+}
+
+.c14{
+  width: 97px;
+  transform: translate(116px, -87px) rotate(-26deg);
+}
+
+.c15{
+  width: 94px;
+  transform: translate(104px, -173px) rotate(-26deg);
+}
+
+.t{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 11;
+  font-size: .8rem;
+  color: #fff;
+}
+
+.t1 {
+  transform: translate(-88px, 165px);
+}
+
+.t2{
+  transform: translate(-51px, 102px);
+}
+
+.t3{
+  transform: translate(3px, 35px);
+}
+
+.t4{
+  transform: translate(17px, -30px);
+}
+
+.t5{
+  transform: translate(51px, -100px);
+}
+
+
+.ic{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 20;
+  cursor: pointer;
+}
+
+.ic-therm {
+  width: 17px;
+  transform: translate(-78px, 127px);
+}
+
+.ic-hum{
+  width: 27px;
+  transform: translate(-46px, 64px);
+}
+
+.ic-ph{
+  width: 27px;
+  transform: translate(-10px, 5px) rotate(27deg);
+}
+
+.ic-sal{
+  width: 31px;
+  transform: translate(25px, -63px);
+}
+
+.ic-oxi{
+  width: 54px;
+  transform: translate(49px, -136px) rotate(-7deg);
+}
+
+
+.ic-therm:hover + .c1, .ic-hum:hover + .c2, .ic-ph:hover + .c3, .ic-sal:hover + .c4, .ic-oxi:hover + .c5{
+  filter: saturate(0.75) brightness(1.2);
+}
+
+/****************** MODAL *******************/
+
+.modal{
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #1f5780;
+  background-image: url("../images/bkgr.jpg");
+  background-size: cover;
+  z-index: 100;
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.modal-box{
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  width: 70%;
+  left: 50%;
+  top: 50%;
+  max-height: 80vh;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  box-shadow: 0 0 14px #344a6acf;
+  transition: all 200ms ease-in;
+}
+
+.modal-close{
+  margin-top: -38px;
+  float: right;
+  font-family: 'Verdana', sans-serif;
+  cursor: pointer;
+}
+
+.modal-close img{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #ffce3a;
+  cursor: pointer;
+  -webkit-transition: transform 0.3s ease 0.8s, background-color 0.3s ease;
+  transition: transform 0.3s ease 0.8s, background-color 0.3s ease;
+  margin-right: 6px;
+}
+
+.modal-visual{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #20b08e;
+}
+
+.modal-contents{
+  box-sizing: border-box;
+  max-height: 70%;
+  width: 100%;
+  top: 30%;
+  padding: 2rem;
+  overflow: scroll;
+  scrollbar-width: none;  /* Firefox */
+}
+
+.modal-contents::-webkit-scrollbar {
+  display: none;
+}
+
+.modal-title h2{
+  font-size: 1.2rem;
+  color: #000;
+  margin: 0 0 0.4rem 0;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.modal-contents .modal-content{
+  font-size: .9rem;
+  overflow: hidden;
+}
+
+.modal-visual-img{
+  padding: 2rem;
+  height: 50px;
+  max-height: 150px;
+}
+
+.d-block{
+  display: block;
+}
+
+.inn{
+  opacity: 1;
+}
+
+.inn .modal-box{
+  top: 50%;
+}
+
+.min-opacity{
+  opacity: 0.2;
+}

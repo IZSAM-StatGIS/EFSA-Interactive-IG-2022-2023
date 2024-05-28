@@ -1,0 +1,22 @@
+body{
+	margin:50px;
+	background-color: #eeeeee; 
+}
+.title{
+	font-family: 'Verdana';
+    font-style: normal;
+	color: #1daf8e;
+}
+.list{
+	font-family: 'Verdana';
+    font-style: normal;
+    color:#246898;
+	text-decoration: none;
+	font-size: 14px;
+}
+.section_cau{
+	font-family: 'Verdana';
+    font-weight: bold;
+	font-style: italic;
+	color: #1daf8e;
+}

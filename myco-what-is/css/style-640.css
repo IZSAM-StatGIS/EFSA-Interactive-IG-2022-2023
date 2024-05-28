@@ -1,0 +1,93 @@
+@media (min-width: 640px) {
+
+  h1{
+    margin: 2rem 2rem 0 2rem;
+    font-size: 2.2rem;
+  }
+
+  h2{
+    margin: 0 2rem;
+    font-size: 1.2rem;
+  }
+
+
+  .c1{
+    width: 111px;
+    transform: translate(-188px, 39px);
+  }
+
+  .c2{
+    width: 121px;
+    transform: translate(-128px, -10px);
+  }
+
+  .c3{
+    width: 120px;
+    transform: translate(-51px, -54px);
+  }
+
+  .c4{
+    width: 130px;
+    transform: translate(14px, -109px);
+  }
+
+  .c5{
+    width: 118px;
+    transform: translate(88px, -152px);
+  }
+
+  .t{
+    font-size: .9rem;
+  }
+
+  .t1{
+    transform: translate(-159px, 108px);
+  }
+
+  .t2{
+    transform: translate(-87px, 66px);
+  }
+
+  .t3 {
+    transform: translate(11px, 11px);
+  }
+
+  .t4{
+    transform: translate(54px, -32px);
+  }
+
+  .t5 {
+    transform: translate(125px, -94px);
+  }
+
+  .ic-therm {
+    width: 21px;
+    transform: translate(-150px, 64px);
+  }
+
+  .ic-hum{
+    width: 35px;
+    transform: translate(-85px, 19px);
+  }
+
+  .ic-ph{
+    width: 36px;
+    transform: translate(-19px, -31px) rotate(12deg);
+  }
+
+  .ic-sal{
+    width: 48px;
+    transform: translate(56px, -82px);
+  }
+
+  .ic-oxi{
+    width: 72px;
+    transform: translate(117px, -139px);
+  }
+
+  .modal-box {
+    width: 50%;
+    max-height: 80vh;
+  }
+
+}

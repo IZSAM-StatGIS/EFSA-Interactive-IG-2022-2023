@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232.013" height="213.302" viewBox="0 0 232.013 213.302">
+  <defs>
+    <filter id="Ellisse_9" x="71.28" y="0" width="51.073" height="51.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15" x="57.5" y="37.443" width="76.013" height="117.425" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_9-2" x="144.774" y="0" width="51.073" height="51.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15-2" x="130.994" y="37.443" width="76.012" height="117.425" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_9-3" x="91.78" y="58.434" width="51.073" height="51.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15-3" x="78" y="95.877" width="76.012" height="117.425" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_9-4" x="169.78" y="58.434" width="51.073" height="51.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15-4" x="156" y="95.877" width="76.012" height="117.425" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_9-5" x="13.78" y="58.434" width="51.073" height="51.073" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_15-5" x="0" y="95.877" width="76.013" height="117.425" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="who_is_at_risk" transform="translate(-921.994 -662.132)">
+    <g id="Raggruppa_8" data-name="Raggruppa 8" transform="translate(75.494 30.294)">
+      <g transform="matrix(1, 0, 0, 1, 846.5, 631.84)" filter="url(#Ellisse_9)">
+        <circle id="Ellisse_9-6" data-name="Ellisse 9" cx="16.536" cy="16.536" r="16.536" transform="translate(80.28 6)" fill="#e6c897"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 846.5, 631.84)" filter="url(#Tracciato_15)">
+        <path id="Tracciato_15-6" data-name="Tracciato 15" d="M6.906,0h44.2a6.906,6.906,0,0,1,6.906,6.906V45.581a6.906,6.906,0,0,1-6.906,6.906H48.472V99.425H9.752V52.487H6.906A6.906,6.906,0,0,1,0,45.581V6.906A6.906,6.906,0,0,1,6.906,0Z" transform="translate(66.5 43.44)" fill="#e6c897"/>
+      </g>
+    </g>
+    <g id="Raggruppa_9" data-name="Raggruppa 9" transform="translate(148.988 30.294)">
+      <g transform="matrix(1, 0, 0, 1, 773.01, 631.84)" filter="url(#Ellisse_9-2)">
+        <circle id="Ellisse_9-7" data-name="Ellisse 9" cx="16.536" cy="16.536" r="16.536" transform="translate(153.77 6)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 773.01, 631.84)" filter="url(#Tracciato_15-2)">
+        <path id="Tracciato_15-7" data-name="Tracciato 15" d="M6.906,0h44.2a6.906,6.906,0,0,1,6.906,6.906V45.581a6.906,6.906,0,0,1-6.906,6.906H48.472V99.425H9.752V52.487H6.906A6.906,6.906,0,0,1,0,45.581V6.906A6.906,6.906,0,0,1,6.906,0Z" transform="translate(139.99 43.44)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Raggruppa_5" data-name="Raggruppa 5" transform="translate(95.994 88.729)">
+      <g transform="matrix(1, 0, 0, 1, 826, 573.4)" filter="url(#Ellisse_9-3)">
+        <circle id="Ellisse_9-8" data-name="Ellisse 9" cx="16.536" cy="16.536" r="16.536" transform="translate(100.78 64.43)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 826, 573.4)" filter="url(#Tracciato_15-3)">
+        <path id="Tracciato_15-8" data-name="Tracciato 15" d="M6.906,0h44.2a6.906,6.906,0,0,1,6.906,6.906V45.581a6.906,6.906,0,0,1-6.906,6.906H48.472V99.425H9.752V52.487H6.906A6.906,6.906,0,0,1,0,45.581V6.906A6.906,6.906,0,0,1,6.906,0Z" transform="translate(87 101.88)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Raggruppa_7" data-name="Raggruppa 7" transform="translate(173.994 88.729)">
+      <g transform="matrix(1, 0, 0, 1, 748, 573.4)" filter="url(#Ellisse_9-4)">
+        <circle id="Ellisse_9-9" data-name="Ellisse 9" cx="16.536" cy="16.536" r="16.536" transform="translate(178.78 64.43)" fill="#e6c897"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 748, 573.4)" filter="url(#Tracciato_15-4)">
+        <path id="Tracciato_15-9" data-name="Tracciato 15" d="M6.906,0h44.2a6.906,6.906,0,0,1,6.906,6.906V45.581a6.906,6.906,0,0,1-6.906,6.906H48.472V99.425H9.752V52.487H6.906A6.906,6.906,0,0,1,0,45.581V6.906A6.906,6.906,0,0,1,6.906,0Z" transform="translate(165 101.88)" fill="#e6c897"/>
+      </g>
+    </g>
+    <g id="Raggruppa_6" data-name="Raggruppa 6" transform="translate(17.994 88.729)">
+      <g transform="matrix(1, 0, 0, 1, 904, 573.4)" filter="url(#Ellisse_9-5)">
+        <circle id="Ellisse_9-10" data-name="Ellisse 9" cx="16.536" cy="16.536" r="16.536" transform="translate(22.78 64.43)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 904, 573.4)" filter="url(#Tracciato_15-5)">
+        <path id="Tracciato_15-10" data-name="Tracciato 15" d="M6.906,0h44.2a6.906,6.906,0,0,1,6.906,6.906V45.581a6.906,6.906,0,0,1-6.906,6.906H48.472V99.425H9.752V52.487H6.906A6.906,6.906,0,0,1,0,45.581V6.906A6.906,6.906,0,0,1,6.906,0Z" transform="translate(9 101.88)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

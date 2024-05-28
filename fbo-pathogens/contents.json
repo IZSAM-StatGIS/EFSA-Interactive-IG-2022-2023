@@ -1,0 +1,321 @@
+{
+  "bacteria": {
+    "catname": "Bacteria",
+    "campylobacter": {
+      "id": "campylobacter",
+      "name": "<em>Campylobacter</em>",
+      "cover": {
+        "src": "images/bacteria/campylobacter/visual.png",
+        "alt": "Illusttration for Campylobacter"
+      },
+      "incubation": "2-5 days (range of 1-10 days)",
+      "description": "<em>Campylobacter jejuni</em> and <em>Campylobacter coli</em> are the main clinically relevant species of <em>Campylobacter</em> causing most human infections. Although <em>C. jejuni</em> is the most frequent cause of campylobacteriosis in humans, <em>C. coli</em> can contribute to 25% of cases. Poultry and domestic animals are the main reservoirs of infection, with poultry being responsible directly and indirectly for 50%-80% of reported human cases.",
+      "symptoms": "Fever, severe abdominal pain, nausea and diarrhoea, varying from slight to profuse and watery.",
+      "transmission": "The main food sources are raw milk and raw or undercooked poultry meat. The bacteria spread to other foods through cross-contamination or contamination with untreated water.",
+      "mtimage": {
+        "src": "images/bacteria/campylobacter/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "salmonella": {
+      "id": "salmonella",
+      "name": "<em>Salmonella</em>",
+      "cover": {
+        "src": "images/bacteria/salmonella/visual.png",
+        "alt": "Illusttration for Salmonella"
+      },
+      "incubation": "12–36 hours",
+      "description": "There are more than 2200 different <em>Salmonella</em> serotypes and the vast majority of which are capable of infecting humans. <em>S</em>. Enteritidis and <em>S</em>. Typhimurium are considered as the main serotypes from a public health perspective. <em>Salmonella</em> typically originates from animal reservoirs with many domestic species playing an important role as source of human infection, in particular poultry, pigs and cattle.",
+      "symptoms": "Fever, headache, nausea, vomiting, abdominal pain and diarrhoea.",
+      "transmission": "Humans can become infected by consuming a wide variety of food (i.e. eggs, milk, meat and meat products) derived from infected food-producing animals. Food can also be contaminated by infected food-handlers or by cross contamination as a result of poor hygiene (bakery products, fruit, vegetables and water).",
+      "mtimage": {
+        "src": "images/bacteria/salmonella/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "listeria": {
+      "id": "listeria",
+      "name": "<em>Listeria monocytogenes</em>",
+      "cover": {
+        "src": "images/bacteria/listeria/visual.png",
+        "alt": "Illusttration for Listeria monocytogenes"
+      },
+      "incubation": "A few days to three weeks",
+      "description": "<em>L. monocytogenes</em> is commonly found in the environment. The bacterium may enter abattoirs with carrier animals in some cases, but the contamination of food products often takes place in  the processing environment rather than being caused directly by the animals. <em>L. monocytogenes</em> can cause miscarriages and stillbirths in pregnant women. In infants and people with a weakened immune system, it may lead to septicaemia and meningitis.",
+      "symptoms": "Influenza-like symptoms such as fever, headache and occasionally gastrointestinal symptoms. In pregnant women, miscarriages and stillbirths. Meningoencephalitis in neonate and immunocompromised subjects.",
+      "transmission": "The disease is often associated with the consumption of contaminated foods such as soft cheese, meat products, fish and fishery products, raw milk.",
+      "mtimage": {
+        "src": "images/bacteria/listeria/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "coli": {
+      "id": "coli",
+      "name": "Shigatoxin-producing <em>Escherichia coli</em> (STEC)",
+      "cover": {
+        "src": "images/bacteria/coli/visual.png",
+        "alt": "Illusttration for Escherichia Coli"
+      },
+      "incubation": "3-8 days",
+      "description": "Shiga toxin-producing <em>E. coli</em> are zoonotic agents whose natural reservoirs are domestic ruminants (cattle, goats, sheep). The clinical course of STEC infection in humans may range from mild abdominal pain to haemorrhagic colitis and haemolytic uremic syndrome (HUS), a severe systemic condition characterised by anaemia, thrombocytopenia and acute renal failure. HUS affects small children in particular.",
+      "symptoms": "Abdominal cramps and watery diarrhoea that may become bloody (haemorrhagic colitis), fever and vomiting.",
+      "transmission": "Infections are usually caused by the consumption of contaminated food of animal origin such as minced meat, undercooked hamburger, raw unpasteurised milk and raw milk cheeses as well as leafy green vegetables, sprouts and contaminated drinking water.",
+      "mtimage": {
+        "src": "images/bacteria/coli/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "yersinia": {
+      "id": "yersinia",
+      "name": "<em>Yersinia</em>",
+      "cover": {
+        "src": "images/bacteria/yersinia/visual.png",
+        "alt": "Illusttration for Yersinia"
+      },
+      "incubation": "4-10 days",
+      "description": "<em>Y. enterocolitica</em> which can be isolated from many species of mammals and birds, is a major cause of gastroenteritis in humans. Despite the frequent occurrence of the bacteria in pigs, pathogenic <em>Y. enterocolitica</em> have only exceptionally been found on retail pork products.",
+      "symptoms": "Abdominal pain, diarrhoea, mild fever, vomiting.",
+      "transmission": "Pork products (tongue, tonsils, gut), cured or uncured, as well as unpasteurised (raw) milk and milk products are the main implicated foods.",
+      "mtimage": {
+        "src": "images/bacteria/yersinia/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "brucella": {
+      "id": "brucella",
+      "name": "<em>Brucella</em>",
+      "cover": {
+        "src": "images/bacteria/brucella/visual.png",
+        "alt": "Illusttration for Brucella"
+      },
+      "incubation": "5-60 days",
+      "description": "One of the most widespread zoonoses, brucellosis is caused by bacteria of the genus <em>Brucella</em>. In humans, the main symptom is recurrent bouts of high temperature, but flu-like symptoms and chronic debilitating disease are also common.",
+      "symptoms": "Continuous, intermittent or irregular fever, fatigue, sweating, headache, chills, constipation, arthralgias, generalised aching, weight loss, anorexia.",
+      "transmission": "Milk (usually goat or sheep milk) and dairy products made from unpasteurised milk (e.g. fresh goat cheese) are the main implicated food in <em>Brucella</em> outbreaks.",
+      "mtimage": {
+        "src": "images/bacteria/brucella/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    }
+  },
+  "toxins": {
+    "catname": "Bacterial toxins",
+    "bacillus-cereus": {
+      "id": "bacillus-cereus",
+      "name": "<em>Bacillus cereus</em>",
+      "cover": {
+        "src": "images/bacterial-toxins/bacillus-cereus/visual.png",
+        "alt": "Illusttration for Bacillus cereus"
+      },
+      "incubation": "Diarrhoeal syndrome: 8-16 hours. Emetic syndrome: 1-5 hours",
+      "description": "<em>B. cereus</em> can produce two different types of toxins responsible for foodborne illness. The emetic toxin causes vomiting, while the enterotoxin(s) leads to diarrhoea. Generally, the disease is self-limiting, lasting only 24 hours, but it can occasionally persist for up to several days. <em>B. cereus</em> spores are ubiquitous in the environment, as well as in raw materials, and foods. Improper food handling and storage are the main reason for toxinogenesis.",
+      "symptoms": "Diarrhoeal syndrome: acute diarrhoea, nausea and abdominal pain. Emetic syndrome: acute nausea, vomiting and abdominal pain and sometimes diarrhoea.",
+      "transmission": "This food poisoning is caused by the ingestion of preformed toxins in contaminated food stored at ambient temperatures after cooking. The most common foods implicated in the emetic syndrome are fried and cooked rice, pasta, pastry, and noodles. For the diarrheal manifestation, the most common foods are meat products, soups, vegetables, sauces, milk, and milk products.",
+      "mtimage": {
+        "src": "images/bacterial-toxins/bacillus-cereus/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "clostridium-botulinum": {
+      "id": "clostridium-botulinum",
+      "name": "<em>Clostridium botulinum</em>",
+      "cover": {
+        "src": "images/bacterial-toxins/clostridium-botulinum/visual.png",
+        "alt": "Illusttration for Toxins of Bacillus cereus"
+      },
+      "incubation": "12-36 hours (range of several hours to 8 days)",
+      "description": "<em>Botulinum</em> toxins (BoNTs) are the most potent protein poisons known to affect humans and warm-blooded animals. Since <em>C. botulinum</em> and other BoNT-producing clostridia are environmental microorganisms, they may contaminate raw material and foods. Improper canning or processing can allow the germination of spores, overgrowth, and toxin production. The consumption of a small amount of food contaminated with BoNTs can cause a severe neuro-paralytic disease named botulism.",
+      "symptoms": "Vomiting, abdominal pain, fatigue, muscle weakness, headache, constipation, dry mouth and difficulty in swallowing and speaking, and ultimately paralysis and respiratory or heart failure.",
+      "transmission": "The ingestion of toxin pre-formed in food. The foods typically associated with foodborne botulism are: home-canned vegetables, fermented fish products, canned meat, foods packaged in air-tight or modified-atmosphere containers stored at inappropriate refrigeration conditions.",
+      "mtimage": {
+        "src": "images/bacterial-toxins/clostridium-botulinum/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "clostridium-perfringens": {
+      "id": "clostridium-perfringens",
+      "name": "<em>Clostridium perfringens</em>",
+      "cover": {
+        "src": "images/bacterial-toxins/clostridium-perfringens/visual.png",
+        "alt": "Illusttration for Toxins of Bacillus cereus"
+      },
+      "incubation": "8-24 hours",
+      "description": "Some strains of <em>C. perfringens</em> can produce more than 20 toxins and dangerous enzymes. The strains responsible for foodborne illnesses mainly cause stomach cramps and diarrhoea; nausea and vomiting are rare. <em>C. perfringens</em> is widely present in the environment including in soil, water and the intestinal tract of animals and humans.",
+      "symptoms": "Abdominal pain, diarrhoea, rarely vomiting and fever.",
+      "transmission": "Undercooked or improperly stored (at temperature abuse) meat dishes (beef and chicken) are the food items mainly involved in outbreaks because the microorganism is capable of quickly grow in foods.",
+      "mtimage": {
+        "src": "images/bacterial-toxins/clostridium-perfringens/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "staphylococcus-aureus": {
+      "id": "staphylococcus-aureus",
+      "name": "<em>Staphylococcus aureus</em>",
+      "cover": {
+        "src": "images/bacterial-toxins/staphylococcus-aureus/visual.png",
+        "alt": "Illusttration for Toxins of Bacillus cereus"
+      },
+      "incubation": "2-6 hours",
+      "description": "<em>S. aureus</em> produces several enterotoxins capable of causing intoxication. Improper handling and storage (at abusive temperatures) are the main cause of the proliferation and toxinogenesis of <em>S. aureus</em> in foods.",
+      "symptoms": "Severe nausea, abdominal cramps, vomiting, sometimes accompanied by diarrhoea, sweating, headache and prostration.",
+      "transmission": "The foods mainly implicated in outbreaks are meat dishes (especially pork and poultry), egg products, salads, bakery products such as cream-filled pastries, sandwich fillings, and milk and dairy products.",
+      "mtimage": {
+        "src": "images/bacterial-toxins/staphylococcus-aureus/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    }
+  },
+  "viruses": {
+    "catname": "Viruses",
+    "norovirus": {
+      "id": "norovirus",
+      "name": "Norovirus (NoV)",
+      "cover": {
+        "src": "images/viruses/norovirus/visual.png",
+        "alt": "Illusttration for Norovirus"
+      },
+      "incubation": "12-48 hours",
+      "description": "NoV is the most common viral agent causing FBO worldwide. It is probably widespread in the community, but explosive outbreaks can occur if an infected individual contaminates a common food or water source.",
+      "symptoms": "Nausea, vomiting, watery non-bloody diarrhoea, dehydration.",
+      "transmission": "The main sources of NoV are contaminated bivalve molluscs consumed raw or undercooked and composite mixed foods.",
+      "mtimage": {
+        "src": "images/viruses/norovirus/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "hepatitis-A": {
+      "id": "hepatitis-A",
+      "name": "Hepatitis A virus (HAV)",
+      "cover": {
+        "src": "images/viruses/hepatitis-A/visual.png",
+        "alt": "Illusttration for Calicivirus"
+      },
+      "incubation": "28-30 days (range of 15-50 days)",
+      "description": "HAV infection is almost exclusively the result of contact with an infected person or faecally contaminated food or drink.",
+      "symptoms": "Symptoms of hepatitis A can last for up to 2 months and include fatigue, nausea, stomach pain, and jaundice.",
+      "transmission": "The foods involved include shellfish, raw fruit, particular berries, vegetables and bakery products.",
+      "mtimage": {
+        "src": "images/viruses/hepatitis-A/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "hepatitis-E": {
+      "id": "hepatitis-E",
+      "name": "Hepatitis E virus (HEV)",
+      "cover": {
+        "src": "images/viruses/hepatitis-E/visual.png",
+        "alt": "Illusttration for Calicivirus"
+      },
+      "incubation": "15-60 days",
+      "description": "HEV usually causes a self-limiting disease but can occasionally lead to serious liver disease in humans.",
+      "symptoms": "Fever, fatigue, nausea, vomiting, jaundice.",
+      "transmission": "The main route of transmission is the faecal-oral route via contaminated water. In industrialised countries, other risk factors include eating raw or undercooked pork or wild boar meat.",
+      "mtimage": {
+        "src": "images/viruses/hepatitis-E/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    }
+  },
+  "parasites": {
+    "catname": "Parasites",
+    "trichinella": {
+      "id": "trichinella",
+      "name": "<em>Trichinella</em>",
+      "cover": {
+        "src": "images/parasites/trichinella/visual.png",
+        "alt": "Illusttration for Trichinella"
+      },
+      "incubation": "24-48 hours (larval invasion of the intestine) 4-28 days (larval invasion of the muscles)",
+      "description": "Ten species and three genotypes are currently recognised within the genus <em>Trichinella</em>.",
+      "symptoms": "During the initial larvae invasion, the symptoms are nausea, vomiting, diarrhoea and fever. At a later stage, muscles aches and fever are characteristic.",
+      "transmission": "Trichinellosis can occur where humans eat raw or undercooked meat products from mammals (mainly wild board and pigs), birds and reptiles harbouring the infective larvae of the parasite.",
+      "mtimage": {
+        "src": "images/parasites/trichinella/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "toxoplasma": {
+      "id": "toxoplasma",
+      "name": "<em>Toxoplasma</em>",
+      "cover": {
+        "src": "images/parasites/toxoplasma/visual.png",
+        "alt": "Illusttration for Toxoplasma"
+      },
+      "incubation": "5-23 days",
+      "description": "<em>T. gondii</em> can potentially infect all vertebrate species, with felids being the definitive host.",
+      "symptoms": "Infections are often asymptomatic or present in the form of as acute disease involving lymphadenopathy and lymphocytosis persisting for days or weeks.",
+      "transmission": "The ingestion of <em>T. gondii</em> tissue cysts in raw or undercooked meat, of <em>T. gondii</em> tachyzoites in raw milk, or <em>T. gondii</em> sporulated oocysts contaminating fresh produce, shellfish, and water are all risk factors for human infection and have been associated with several outbreaks of toxoplasmosis.",
+      "mtimage": {
+        "src": "images/parasites/toxoplasma/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "cryptosporidium": {
+      "id": "cryptosporidium",
+      "name": "<em>Cryptosporidium</em>",
+      "cover": {
+        "src": "images/parasites/cryptosporidium/visual.png",
+        "alt": "Illusttration for Cryptosporidium"
+      },
+      "incubation": "2-4 days",
+      "description": "<em>C. parvum</em> is the most important zoonotic species and has been shown to be responsible for sporadic outbreaks of water-borne disease.",
+      "symptoms": "Persistent diarrhoea, nausea, vomiting and abdominal pain, sometimes accompanied by an influenza-like illness with fever.",
+      "transmission": "The infection spreads through the faecal–oral route, person-to-person contact or the consumption of faecally contaminated food and water. Sewage waste and agricultural and urban run-off have been recognised as sources of water contamination.",
+      "mtimage": {
+        "src": "images/parasites/cryptosporidium/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "giardia": {
+      "id": "giardia",
+      "name": "<em>Giardia</em>",
+      "cover": {
+        "src": "images/parasites/giardia/visual.png",
+        "alt": "Illusttration for Giardia"
+      },
+      "incubation": "10-25 days",
+      "description": "<em>Giardia</em> is an intestinal protozoan infecting humans.",
+      "symptoms": "Infection may result in a wide range of clinical symptoms, the most common being diarrhoea.",
+      "transmission": "The foods mainly implicated in foodborne outbreaks are tap/well water, fruits and vegetables accidentally contaminated by this protozoan.",
+      "mtimage": {
+        "src": "images/parasites/giardia/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    }
+  },
+  "other": {
+    "catname": "Other causative agents",
+    "histamine": {
+      "id": "histamine",
+      "name": "Histamine",
+      "cover": {
+        "src": "images/other/histamine/visual.png",
+        "alt": "Illusttration for Histamine"
+      },
+      "incubation": "1 hour",
+      "description": "Histamine is a biogenic amine formed in foods by certain bacteria that are able to decarboxylate the amino acid, histidine.",
+      "symptoms": "The ingestion of histamine-rich food may cause nausea, vomiting, diarrhoea, red rash, and hypotension.",
+      "transmission": "Histamine poisoning results from the consumption of foods, typically certain types of fish and cheese containing unusually high levels of histamine.",
+      "mtimage": {
+        "src": "images/other/histamine/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    },
+    "marine-biotoxins": {
+      "id": "marine-biotoxins",
+      "name": "Marine biotoxins",
+      "cover": {
+        "src": "images/other/marine-biotoxins/visual.png",
+        "alt": "Illusttration for Marine biotoxins"
+      },
+      "incubation": "Minutes to hours. Less than 12 hours",
+      "description": "Marine biotoxins are naturally occurring chemicals caused by certain types of toxic algae. Marine biotoxins can accumulate in seafood, with most human illnesses from marine biotoxins occuring when people eat contaminated fish or shellfish.",
+      "symptoms": "Symptoms of ciguatera fish poisoning can include nausea, vomiting, diarrhoea, and stomach pain. Some people experience tooth pain and a metallic taste in the mouth.",
+      "transmission": "The most common reported illness caused by marine biotoxins in food is caused by eating fish and shellfish with high amounts of ciguatoxins.",
+      "mtimage": {
+        "src": "images/other/marine-biotoxins/transmission-mode.png",
+        "alt": "Transmission mode icon"
+      }
+    }
+  }
+}

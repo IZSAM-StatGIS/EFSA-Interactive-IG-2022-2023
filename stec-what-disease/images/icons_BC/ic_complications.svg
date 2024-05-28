@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288.526" height="129.001" viewBox="0 0 288.526 129.001">
+  <defs>
+    <filter id="Ellisse_10" x="24.421" y="0" width="56.85" height="57.96" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_16" x="57.834" y="33.461" width="216.574" height="76.236" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_18" x="0" y="25.129" width="288.526" height="103.872" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="complications" transform="translate(-1482.016 -730.566)">
+    <g transform="matrix(1, 0, 0, 1, 1482.02, 730.57)" filter="url(#Ellisse_10)">
+      <ellipse id="Ellisse_10-2" data-name="Ellisse 10" cx="19.425" cy="19.98" rx="19.425" ry="19.98" transform="translate(33.42 6)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1482.02, 730.57)" filter="url(#Tracciato_16)">
+      <path id="Tracciato_16-2" data-name="Tracciato 16" d="M1654.974,2252.622l133.833,6.457s9.255,2.456,8.472,14.861-8.472,12.78-8.472,12.78H1654.974l-54.218-37.144s-5.909-7.553,2.566-16.361,20.183-2.614,20.183-2.614Z" transform="translate(-1531.92 -2189.02)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1482.02, 730.57)" filter="url(#Tracciato_18)">
+      <path id="Tracciato_18-2" data-name="Tracciato 18" d="M1681.111,2272.468h150.453s6.054-.847,6.016,7.967-6.016,9.545-6.016,9.545H1672.952l-103.6-67.6s-5.334-3.185.268-12.146,10.542-5.453,10.542-5.453Z" transform="translate(-1558.05 -2172.98)" fill="#fff"/>
+    </g>
+    <path id="Tracciato_17" data-name="Tracciato 17" d="M1642.723,2243.687l133.528,6.52s7.6,1.67,6.792,11.715-6.461,10.089-6.461,10.089l-132.5-.375-20.181-14.155,3.342-24.552Z" transform="translate(-38.43 -1446.554)" fill="#62b2c9"/>
+  </g>
+</svg>

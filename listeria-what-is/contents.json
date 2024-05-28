@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>L. monocytogenes</i> are psychrotrophic bacteria. This means that they can grow in a large range of temperatures, from -2°C to 45°C, although their optimal range is 30 to 37°C. One of their characteristics is that they can survive at very low temperatures, as low as -18°C.<br><i>L. monocytogenes</i> are sensitive to heat. For example, at 65°C, the population is divided by 10 in 0.2 to 2 minutes in skimmed milk.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<i>L. monocytogenes</i> are facultative anaerobic and microaerophilic organisms. This means that they are able to grow in the presence or absence of oxygen, for example under a vacuum or in a modified gas atmosphere.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>L. monocytogenes</i> can survive in a wide range of pH conditions from 3.3 to 9.6 and grow optimally at pH 7.0.<br>EU regulation considers that products with a pH ≤ 4.4 or products with pH ≤ 5.0 and water activity (a<sub>w</sub>) ≤ 0.94 are unable to support the growth of <i>L. monocytogenes</i>.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>L. monocytogenes</i> can grow with a water activity (a<sub>w</sub>) > 0.92 but can survive in lower  water activity. EU regulations consider that products with a<sub>w</sub> ≤ 0.92 and products with pH ≤ 5.0 and a<sub>w</sub> ≤ 0.94 are unable to support the growth of <i>L. monocytogenes</i>.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "<i>L. monocytogenes</i> are able to survive in high salinity concentrations (> 20.0%).",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

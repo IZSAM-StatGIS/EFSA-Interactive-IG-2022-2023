@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> are slow-growing bacteria that need special culture media. Optimal growth occurs at 37°C. They are inactivated at the pasteurisation temperature: 63°C for 30' or 72°C for 15\".",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> are strictly aerobic but can survive in the presence of CO<sub>2</sub> below 10%.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> can survive very acidic pH, between 3 and 4. They grow optimally at pH between 5.8 and 6.9.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>M. bovis</i> and <i>M. caprae</i> can survive in water more for than 200 days between 24°C and 28°C (room temperature).",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "Salinity concentrations above 3% inhibit the growth of <i>M. bovis</i> and <i>M. caprae</i>.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

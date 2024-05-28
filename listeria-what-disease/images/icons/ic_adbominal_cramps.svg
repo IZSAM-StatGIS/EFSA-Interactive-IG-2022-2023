@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="203.542" height="168.589" viewBox="0 0 203.542 168.589">
+  <defs>
+    <filter id="Tracciato_28" x="76.656" y="82.207" width="82.6" height="86.383" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_29" x="95.578" y="23.253" width="87.285" height="85.019" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Tracciato_30" x="89.652" y="41.33" width="113.89" height="113.77" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="adbominal_cramps" transform="translate(-1215.355 -373.566)">
+    <path id="Tracciato_26" data-name="Tracciato 26" d="M3718.326,2161.085s1.259,63.338-12.681,70.4-33.461,9.554-46.68,23.673-3.577,30.175-3.577,30.175-8.516,7.688-6.365,36.241l13.441,2.934s-1.833-15.993,5.906-25.266c0,0,43.932,44.21,103.337-12.8s16.107-136.318-31.648-96.43l-.836-31.937Z" transform="translate(-2433.32 -1784.505)" fill="#fff"/>
+    <path id="Tracciato_31" data-name="Tracciato 31" d="M3684.095,2219.337c-8.061,2.743-17.1,4.361-27.992,15.83-9.88,13.216-1.864,27.145,8.246,33.733s46.031,22.935,80.587-11.968c16.421-16.094,30.648-43.176,29.4-51.509,0,0-8.162-6.51-21.937-3.086s-19.259,13.906-34.451,16.042S3687.886,2218.609,3684.095,2219.337Z" transform="translate(-2075.855 -2249.482) rotate(8)" fill="#87bcb3"/>
+    <g transform="matrix(1, 0, 0, 1, 1215.35, 373.57)" filter="url(#Tracciato_28)">
+      <path id="Tracciato_28-2" data-name="Tracciato 28" d="M.32,44.682c3.093-5.754,14.715-23.459,18.613-25.947s3.681,2.133,3.681,2.133v4.311S39.164,5.045,45.752,1.2s9.963,2.5,7,5.264S19.457,36.742,19.457,36.742,17.734,38,18.411,31.513s-.805-3.744-.805-3.744S-2.774,50.437.32,44.682Z" transform="translate(126.66 88.21) rotate(64)" fill="#d99898"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1215.35, 373.57)" filter="url(#Tracciato_29)">
+      <path id="Tracciato_29-2" data-name="Tracciato 29" d="M.32,50.341c3.093-5.754,14.715-23.459,18.613-25.947s3.681,2.133,3.681,2.133v4.311S43.587,4.57,50.175.728s5.54,8.637,2.574,11.4S19.457,42.4,19.457,42.4s-1.724,1.262-1.046-5.229-.805-3.744-.805-3.744S-2.774,56.1.32,50.341Z" transform="translate(122.12 29.25) rotate(20)" fill="#d99898"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1215.35, 373.57)" filter="url(#Tracciato_30)">
+      <path id="Tracciato_30-2" data-name="Tracciato 30" d="M.407,64.164c3.943-7.335,18.755-29.9,23.723-33.072s4.692,2.719,4.692,2.719v5.494S55.555,5.825,63.951.928s7.061,11.009,3.281,14.528S24.8,54.043,24.8,54.043s-2.2,1.608-1.334-6.665-1.026-4.773-1.026-4.773S-3.535,71.5.407,64.164Z" transform="matrix(0.72, 0.69, -0.69, 0.72, 144.05, 47.33)" fill="#d99898"/>
+    </g>
+  </g>
+</svg>

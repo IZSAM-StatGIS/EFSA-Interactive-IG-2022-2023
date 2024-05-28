@@ -1,0 +1,92 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "In symptomatic cases, the incubation period lasts for 3 to 4 days after exposure (range 2-12 days).",
+      "text": "",
+      "collection": [
+        {"name": "Abdominal cramps", "abstract": "", "img": "images/icons/ic_seizures.svg"},
+        {"name": "Diarrhoea ", "abstract": "", "img": "images/icons/ic_diarrhoea.svg"},
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Vomiting and nausea", "abstract": "", "img": "images/icons/ic_vomit.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Young children", "abstract": "", "img": "images/icons/ic_children.svg"},
+        {"name": "Elderly people", "abstract": "", "img": "images/icons/ic_elderly.svg"},
+        {"name": "Pregnant women", "abstract": "", "img": "images/icons/ic_pregnant.svg"},
+        {"name": "Immuno-compromised people", "abstract": "", "img": "images/icons/ic_immunecomp.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "Haemolytic Uremic Syndrome (HUS):",
+      "collection": [
+        {"name": "Haemorrhagic colitis", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
+        {"name": "Intestinal stenosis / perforation / necrosis", "abstract": "", "img": "images/icons/ic_bowel.svg"},
+        {"name": "Pancreatitis", "abstract": "", "img": "images/icons/ic_pancreatitis.svg"},
+        {"name": "Diabetes", "abstract": "", "img": "images/icons/ic_diabetic.svg"},
+        {"name": "Central nervous system involvement", "abstract": "", "img": "images/icons/ic_neuro.svg"},
+        {"name": "Haemolytic uraemic syndrome (HUS) with acute renal failure", "abstract": "", "img": "images/icons/ic_kidney.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Generally asymptomatic. In some cases:",
+      "collection": [
+        {"name": "Diarrhoea", "abstract": "in young calves and swine", "img": "images/icons/ic_diarrhoea_animal.svg"},
+        {"name": "Oedema", "abstract": "in swine", "img": "images/icons/ic_oedema_in_swine.svg"}
+      ],
+      "old":[
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Ruminants", "abstract": "(cattle, sheep, goats, and water buffalo)", "img": "images/icons/ic_animals_ruminants.svg"},
+        {"name": "Pigs", "abstract": "(sporadically)", "img": "images/icons/ic_swine.svg"},
+        {"name": "Horses", "abstract": "(sporadically)", "img": "images/icons/ic_horses.svg"},
+        {"name": "Dogs", "abstract": "(sporadically)", "img": "images/icons/ic_pets_2.svg"},
+        {"name": "Farmed rabbits", "abstract": "(sporadically)", "img": "images/icons/ic_hare.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "Since animals are generally asymptomatic, no complications are reported.",
+      "collection": [
+      ],
+      "old": [
+        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"}
+      ]
+    }
+  }
+}

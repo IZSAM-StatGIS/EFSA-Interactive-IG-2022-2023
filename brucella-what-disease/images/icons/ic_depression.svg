@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Symptoms" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="ic_depression">
+    <circle class="cls-1" cx="16.14" cy="10.31" r="3.75"/>
+    <path class="cls-1" d="m13.05,26.83s2.52-2.3,2.66-3.36c-1.87-.21-3.31-1.8-3.31-3.72,0-2.07,1.67-3.75,3.74-3.75s3.75,1.68,3.75,3.75c0,0,.42,5.49-6.84,7.08Z"/>
+  </g>
+</svg>

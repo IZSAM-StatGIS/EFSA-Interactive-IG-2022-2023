@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "<i>Brucella</i> can grow at temperatures between 20 and 40°C. The optimal temperature for growth is between 34 and 37°C. Survival is longer when the temperature is low, even under negative temperatures.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<i>Brucellae</i> are considered as aerobic, but certain strains require a CO<sub>2</sub> enriched atmosphere (5 to 10%) to grow under laboratory conditions. Recently, it has been reported that Brucella can survive in anoxic conditions.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>Brucella</i> can grow with a pH between 5.8 and 8.7. <i>Brucella</i> can survive under medium (pH<4.5, in cheese or during intracellular infection) and extreme (pH<2,5, during stomach transit) acid conditions.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "The growth of <i>Brucella</i> (<i>B. abortus</i> and <i>B. melitensis</i>) in the environment is promoted by humid conditions. Survival is highly dependent on the water availability.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "<i>Brucella</i> is highly vulnerable to salinity.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

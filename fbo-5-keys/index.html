@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>EFSA FBO 5 Keys</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+<section class="main">
+  <div class="infographics-wrap">
+    <div class="card card-header">
+      <div class="card-title">
+        <h1>the<br>Five Keys<br>to Safer<br>Food</h1>
+      </div>
+      <div class="visual">
+        <img src="images/cards/5-keys-visual.png" alt="5 Keys visual">
+      </div>
+      <div class="source">
+        Source WHO
+      </div>
+    </div>
+    <div class="card card-contents" id="key-1">
+      <div class="modal-trigger" onclick="showModal(this)"></div>
+      <div class="card-title">
+        <h2>Keep clean</h2>
+      </div>
+      <div class="visual">
+        <img src="images/cards/key-1-visual.png" alt="Key 1 visual">
+      </div>
+      <div class="content">
+        <ul>
+          <li>Wash your hands before handling food and often during food preparation</li>
+          <li>Wash your hands after going to the toilet</li>
+          <li>Wash and sanitize all surfaces and equipment used for food preparation</li>
+          <li>Protect kitchen areas and food from insects, pests and other animals</li>
+        </ul>
+      </div>
+      <div class="card-number">
+        <img src="images/cards/key-1.svg" alt="Key 1">
+      </div>
+    </div>
+    <div class="card card-contents" id="key-2">
+      <div class="modal-trigger" onclick="showModal(this)"></div>
+      <div class="card-title">
+        <h2>Separate raw and cooked</h2>
+      </div>
+      <div class="visual">
+        <img src="images/cards/key-2-visual.png" alt="Key 2 visual">
+      </div>
+      <div class="content">
+        <ul>
+          <li>Separate raw meat, poultry and seafood from other foods</li>
+          <li>Use separate equipment and utensils such as knives and cutting boards for handling raw foods</li>
+          <li>Store food in containers to avoid contact between raw and prepared foods</li>
+        </ul>
+      </div>
+      <div class="card-number">
+        <img src="images/cards/key-2.svg" alt="Key 2">
+      </div>
+    </div>
+    <div class="card card-contents" id="key-3">
+      <div class="modal-trigger" onclick="showModal(this)"></div>
+      <div class="card-title">
+        <h2>Cook thoroughly</h2>
+      </div>
+      <div class="visual">
+        <img src="images/cards/key-3-visual.png" alt="Key 3 visual">
+      </div>
+      <div class="content">
+        <ul>
+          <li>​Cook food thoroughly, especially meat, poultry, eggs and seafood</li>
+          <li>Bring foods like soups and stews to boiling to make sure that they have reached 70&deg;C. For meat and poultry, make sure that juices are clear, not pink. Ideally, use a thermometer</li>
+          <li>Reheat cooked food thoroughly</li>
+        </ul>
+      </div>
+      <div class="card-number">
+        <img src="images/cards/key-3.svg" alt="Key 3">
+      </div>
+    </div>
+    <div class="card card-contents" id="key-4">
+      <div class="modal-trigger" onclick="showModal(this)"></div>
+      <div class="card-title">
+        <h2>Keep food at safe temperatures</h2>
+      </div>
+      <div class="visual">
+        <img src="images/cards/key-4-visual.png" alt="Key 4 visual">
+      </div>
+      <div class="content">
+        <ul>
+          <li>Do not leave cooked food at room temperature for more than 2 hours</li>
+          <li>Refrigerate promptly all cooked and perishable food (preferably below 5°C)</li>
+          <li>Keep cooked food piping hot (more than 60°C) prior to serving</li>
+          <li>Do not store food too long even in the refrigerator</li>
+          <li>Do not thaw frozen food at room temperature</li>
+        </ul>
+      </div>
+      <div class="card-number">
+        <img src="images/cards/key-4.svg" alt="Key 4">
+      </div>
+    </div>
+    <div class="card card-contents" id="key-5">
+      <div class="modal-trigger" onclick="showModal(this)"></div>
+      <div class="card-title">
+        <h2>Use safe water and raw materials</h2>
+      </div>
+      <div class="visual">
+        <img src="images/cards/key-5-visual.png" alt="Key 5 visual">
+      </div>
+      <div class="content">
+        <ul>
+          <li>Use safe water or treat it to make it safe</li>
+          <li>Select fresh and wholesome foods</li>
+          <li>Choose foods processed for safety, such as pasteurized milk</li>
+          <li>Wash fruits and vegetables, especially if eaten raw</li>
+          <li>Do not use food beyond its expiry date</li>
+        </ul>
+      </div>
+      <div class="card-number">
+        <img src="images/cards/key-5.svg" alt="Key 5">
+      </div>
+    </div>
+</section>
+
+<section class="modal">
+  <div class="modal-box">
+    <div class="modal-close" onclick="closeModal(this)"></div>
+    <div class="modal-visual">
+      <img src="" alt="">
+      <div class="modal-number">
+        <img src="" alt="">
+      </div>
+    </div>
+    <div class="modal-contents">
+      <div class="modal-title">
+      </div>
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="js/functions.js"></script>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

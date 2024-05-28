@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Symptoms" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e69a8d;
+      }
+
+      .cls-3 {
+        fill: #f18d75;
+      }
+
+      .cls-4 {
+        fill: #dd644a;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m3.77,4.86h23.23s1.73-.14,1.76,1.17.65,2.09,1.54,2.09c1.39,0,1.24.41,1.24,2.39s0,12.39,0,12.39c0,0,.36,4.09-4.02,4.09s-23.16,0-23.16,0c0,0-3.92.03-3.91-4.27,0-4.98,0-14.96,0-14.96,0,0-.28-2.9,3.32-2.9Z"/>
+  <rect class="cls-4" x="1.67" y="13.11" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="9.81" y="13.11" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="5.47" y="16.26" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-4" x="13.71" y="16.26" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-2" x="17.95" y="13.11" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="21.94" y="16.26" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-4" x="18.69" y="19.41" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="2.41" y="19.41" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-4" x="4.56" y="22.57" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-2" x="12.8" y="22.57" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-2" x="10.55" y="19.41" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="21.03" y="22.57" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-2" x="3.16" y="6.8" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-4" x="11.31" y="6.8" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="6.28" y="9.96" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-2" x="14.52" y="9.96" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="19.45" y="6.8" width="7.55" height="2.63" rx=".08" ry=".08"/>
+  <rect class="cls-3" x="22.75" y="9.96" width="7.55" height="2.63" rx=".08" ry=".08"/>
+</svg>

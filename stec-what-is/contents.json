@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "The optimal temperature for STEC growth is between 36°C and 40°C, but the bacteria can survive between 6°C to 45.5°C.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "STEC can survive in aerobic and anaerobic environments.",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "STEC can survive in a wide range of pH conditions between 4.4 to 9 and grow optimally at pH from 6 to 7.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "STEC can grow with water activity (a<sub>w</sub>) above 0.995.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "The optimal salinity for STEC is 0% but it can tolerate up to 8.5%.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

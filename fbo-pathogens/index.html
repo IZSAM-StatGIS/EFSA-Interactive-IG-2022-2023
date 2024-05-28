@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>EFSA FBO Pathogens</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="style.css">
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+
+<nav>
+  <div class="organisms">
+    <h1>Causative Agents</h1>
+    <ul class="button-group filters-button-group">
+      <li class="button is-checked" data-filter="*">all</li>
+      <li class="button" data-filter=".bacteria">bacteria</li>
+      <li class="button" data-filter=".bacterial-toxins">bacterial toxins</li>
+      <li class="button" data-filter=".viruses">viruses</li>
+      <li class="button" data-filter=".parasites">parasites</li>
+      <li class="button" data-filter=".other">other</li>
+    </ul>
+    <div class="grid">
+      <div class="grid-sizer"></div>
+      <!-- bacteria -->
+      <div class="grid-item bacteria">
+          <a onclick="loadContents(this)" id="campylobacter">
+            <img src="images/bacteria/campylobacter/visual.png" alt="Illusttration for Campylobacter">
+            <span class="link">Campylobacter</span>
+          </a>
+      </div>
+      <div class="grid-item bacteria">
+          <a onclick="loadContents(this)" id="salmonella">
+            <img src="images/bacteria/salmonella/visual.png" alt="Illusttration for Salmonella">
+            <span class="link">Salmonella</span>
+          </a>
+      </div>
+      <div class="grid-item bacteria">
+          <a onclick="loadContents(this)" id="listeria">
+            <img src="images/bacteria/listeria/visual.png" alt="Illusttration for Listeria monocytogenes">
+            <span class="link">Listeria monocytogenes</span>
+          </a>
+      </div>
+      <div class="grid-item bacteria">
+        <a onclick="loadContents(this)" id="coli">
+          <img src="images/bacteria/coli/visual.png" alt="Illusttration for Shigatoxin-producing Escherichia coli ">
+          <span class="link">Shigatoxin-producing E. coli (STEC)</span>
+        </a>
+      </div>
+      <div class="grid-item bacteria">
+        <a onclick="loadContents(this)" id="yersinia">
+          <img src="images/bacteria/yersinia/visual.png" alt="Illusttration for Yersinia">
+          <span class="link">Yersinia</span>
+        </a>
+      </div>
+      <div class="grid-item bacteria">
+        <a onclick="loadContents(this)" id="brucella">
+          <img src="images/bacteria/brucella/visual.png" alt="Illusttration for Brucella">
+          <span class="link">Brucella</span>
+        </a>
+      </div>
+      <!-- bacterial toxins -->
+      <div class="grid-item bacterial-toxins">
+        <a onclick="loadContents(this)" id="bacillus-cereus">
+          <img src="images/bacterial-toxins/bacillus-cereus/visual.png" alt="Illusttration for Bacillus cereus">
+          <span class="link">Bacillus cereus</span>
+        </a>
+      </div>
+      <div class="grid-item bacterial-toxins">
+        <a onclick="loadContents(this)" id="clostridium-botulinum">
+          <img src="images/bacterial-toxins/clostridium-botulinum/visual.png" alt="Illusttration for Clostridium botulinum">
+          <span class="link">Clostridium botulinum</span>
+        </a>
+      </div>
+      <div class="grid-item bacterial-toxins">
+        <a onclick="loadContents(this)" id="clostridium-perfringens">
+          <img src="images/bacterial-toxins/clostridium-perfringens/visual.png" alt="Illusttration for Clostridium perfringens">
+          <span class="link">Clostridium perfringens</span>
+        </a>
+      </div>
+      <div class="grid-item bacterial-toxins">
+        <a onclick="loadContents(this)" id="staphylococcus-aureus">
+          <img src="images/bacterial-toxins/staphylococcus-aureus/visual.png" alt="Illusttration for Staphylococcus aureus">
+          <span class="link">Staphylococcus aureus</span>
+        </a>
+      </div>
+      <!-- viruses -->
+      <div class="grid-item viruses">
+        <a onclick="loadContents(this)" id="norovirus">
+          <img src="images/viruses/norovirus/visual.png" alt="Illusttration for Norovirus">
+          <span class="link">Norovirus (NoV)</span>
+        </a>
+      </div>
+      <div class="grid-item viruses">
+        <a onclick="loadContents(this)" id="hepatitis-A">
+          <img src="images/viruses/hepatitis-A/visual.png" alt="Illusttration for hepatitis A virus">
+          <span class="link">Hepatitis A virus (HAV)</span>
+        </a>
+      </div>
+      <div class="grid-item viruses">
+        <a onclick="loadContents(this)" id="hepatitis-E">
+          <img src="images/viruses/hepatitis-E/visual.png" alt="Illusttration for hepatitis E virus">
+          <span class="link">Hepatitis E virus (HEV)</span>
+        </a>
+      </div>
+      <!-- parasites -->
+      <div class="grid-item parasites">
+        <a onclick="loadContents(this)" id="trichinella">
+          <img src="images/parasites/trichinella/visual.png" alt="Illusttration for Trichinella">
+          <span class="link">Trichinella</span>
+        </a>
+      </div>
+      <div class="grid-item parasites">
+        <a onclick="loadContents(this)" id="toxoplasma">
+          <img src="images/parasites/toxoplasma/visual.png" alt="Illusttration for Toxoplasma">
+          <span class="link">Toxoplasma</span>
+        </a>
+      </div>
+      <div class="grid-item parasites">
+        <a onclick="loadContents(this)" id="cryptosporidium">
+          <img src="images/parasites/cryptosporidium/visual.png" alt="Illusttration for Cryptosporidium">
+          <span class="link">Cryptosporidium</span>
+        </a>
+      </div>
+      <div class="grid-item parasites">
+        <a onclick="loadContents(this)" id="giardia">
+          <img src="images/parasites/giardia/visual.png" alt="Illusttration for Giardia">
+          <span class="link">Giardia</span>
+        </a>
+      </div>
+      <!-- other -->
+      <div class="grid-item other">
+        <a onclick="loadContents(this)" id="histamine">
+          <img src="images/other/histamine/visual.png" alt="Illusttration for Histamine">
+          <span class="link">Histamine</span>
+        </a>
+      </div>
+      <div class="grid-item other">
+        <a onclick="loadContents(this)" id="marine-biotoxins">
+          <img src="images/other/marine-biotoxins/visual.png" alt="Illusttration for Marine biotoxins">
+          <span class="link">Marine biotoxins</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<section class="main">
+  <div class="infographics-wrap">
+    <div class="card card-header">
+      <div class="pathogen-name">
+        <h3 onclick="backToMenu()"></h3>
+        <h1></h1>
+      </div>
+      <div class="visual">
+        <img src="" alt="">
+      </div>
+      <div class="incubation-period">
+        <h6>Incubation period</h6>
+        <p></p>
+      </div>
+    </div>
+    <div class="card card-contents">
+      <div class="pathogen-info">
+        <div class="pathogen-info-item pathogen-info-item-description" id="pathogen-description">
+          <div class="pathogen-info-item-illustration">
+            <div class="modal-trigger" onclick="showModal(this)"></div>
+            <img src="images/shared/description.png" alt="Document iconic illustration">
+          </div>
+          <h5>Description</h5>
+          <div class="pathogen-content pathogen-content-description">
+            <p></p>
+          </div>
+        </div>
+        <div class="pathogen-info-item" id="pathogen-symptoms">
+          <div class="pathogen-info-item-illustration">
+            <div class="modal-trigger" onclick="showModal(this)"></div>
+            <img src="images/shared/symptoms.png" alt="Symptoms iconic illustration">
+          </div>
+          <h5>Symptoms</h5>
+          <div class="pathogen-content pathogen-content-symptoms">
+            <p></p>
+          </div>
+        </div>
+      </div>
+      <div class="pathogen-transmission" id="pathogen-transmission">
+        <div class="pathogen-info-item-illustration">
+          <div class="modal-trigger" onclick="showModal(this)"></div>
+          <img src="" alt="">
+        </div>
+        <h5>Foods implicated in outbreaks</h5>
+        <div class="pathogen-content pathogen-content-transmission">
+          <p></p>
+        </div>
+      </div>
+    </div>
+</section>
+
+<section class="modal">
+  <div class="modal-box">
+    <div class="modal-close" onclick="closeModal(this)"></div>
+    <div class="modal-visual">
+      <img src="" alt="">
+    </div>
+    <div class="modal-contents">
+      <div class="modal-title">
+      </div>
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="js/isotope.pkgd.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/functions.js"></script>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

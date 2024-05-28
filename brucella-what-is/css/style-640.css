@@ -1,0 +1,93 @@
+@media (min-width: 640px) {
+
+  h1{
+    margin: 2rem 2rem 0 2rem;
+    font-size: 2.2rem;
+  }
+
+  h2{
+    margin: 0 2rem;
+    font-size: 1.2rem;
+  }
+
+
+  .c1{
+    width: 120px;
+    transform: translate(-90px, -16px) rotate(-26deg);
+  }
+
+  .c2{
+    width: 118px;
+    transform: translate(-74px, -114px) rotate(-26deg);
+  }
+
+  .c3{
+    width: 170px;
+    transform: translate(-20px, -33px) rotate(-26deg);
+  }
+
+  .c4{
+    width: 123px;
+    transform: translate(26px, -165px) rotate(-26deg);
+  }
+
+  .c5{
+    width: 140px;
+    transform: translate(10px, -200px) rotate(-26deg);
+  }
+
+  .t{
+    font-size: .9rem;
+  }
+
+  .t1 {
+    transform: translate(-52px, 78px);
+  }
+
+  .t2{
+    transform: translate(-21px, -36px);
+  }
+
+  .t3{
+    transform: translate(37px, 20px);
+  }
+
+  .t4{
+    transform: translate(56px, -86px);
+  }
+
+  .t5{
+    transform: translate(74px, -170px);
+  }
+
+  .ic-therm {
+    width: 17px;
+    transform: translate(-43px, 37px);
+  }
+
+  .ic-hum{
+    width: 27px;
+    transform: translate(-17px, -77px);
+  }
+
+  .ic-ph{
+    width: 32px;
+    transform: translate(32px, -21px) rotate(50deg);
+  }
+
+  .ic-sal{
+    width: 36px;
+    transform: translate(60px, -127px);
+  }
+
+  .ic-oxi{
+    width: 54px;
+    transform: translate(75px, -204px) rotate(8deg);
+  }
+
+  .modal-box {
+    width: 50%;
+    max-height: 80vh;
+  }
+
+}

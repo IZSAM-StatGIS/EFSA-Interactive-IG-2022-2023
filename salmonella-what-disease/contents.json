@@ -1,0 +1,91 @@
+{
+  "humans": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_symptoms.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_whois.svg"},
+      {"title": "Complications", "img": "images/icons/ic_complications.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms.svg"
+      },
+      "incubationPeriod": "6-76 hours",
+      "text": "",
+      "collection": [
+        {"name": "Diarrhoea", "abstract": "Rarely with mucus or blood in the stools", "img": "images/icons/ic_diarrhoea.svg"},
+        {"name": "Fever", "abstract": "", "img": "images/icons/ic_fever.svg"},
+        {"name": "Abdominal cramps", "abstract": "", "img": "images/icons/ic_adbominal_cramps.svg"},
+        {"name": "Vomiting", "abstract": "", "img": "images/icons/ic_vomiting.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Infants", "abstract": "", "img": "images/icons/ic_infant.svg"},
+        {"name": "Children", "abstract": "(under 5 years of age)", "img": "images/icons/ic_children.svg"},
+        {"name": "Pregnant", "abstract": "", "img": "images/icons/ic_pregnant.svg"},
+        {"name": "Elderly", "abstract": "", "img": "images/icons/ic_elderly.svg"},
+        {"name": "Immunocompromised people", "abstract": "", "img": "images/icons/ic_immunecomp.svg"},
+        {"name": "Patients with a disease affecting the immune system", "abstract": "(e.g. diabetes)", "img": "images/icons/ic_immune.svg"},
+        {"name": "Patients using drugs that reduce stomach acidity", "abstract": "", "img": "images/icons/ic_acidity.svg"}
+      ]
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Chronic arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Appendicitis", "abstract": "", "img": "images/icons/ic_appendicitis.svg"},
+        {"name": "Meningitis", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Pneumonia", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
+        {"name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"},
+        { "name": "Irritable bowel syndrome", "abstract": "", "img": "images/icons/ic_bowel.svg"}
+      ]
+    }
+  },
+  "animals": {
+    "secondLevelItems": [
+      {"title": "Symptoms", "img": "images/icons/ic_animal_symptoms_v2.svg"},
+      {"title": "Who is at risk?", "img": "images/icons/ic_animal_whois_v2.svg"},
+      {"title": "Complications", "img": "images/icons/ic_animal_complications_v2.svg"}
+    ],
+    "symptoms": {
+      "backgroundImage": {
+        "src": "images/backgrounds/symptoms_animals.svg"
+      },
+      "incubationPeriod": "",
+      "text": "Generally, animals do not show symptoms. However, in some cases, they can have:",
+      "collection": [
+        {"name": "Diarrhoea", "abstract": "", "img": "images/icons/ic_diarrhoea_animal.svg"},
+        {"name": "Dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
+        {"name": "Decrease in production", "abstract": "", "img": "images/icons/ic_decrease.svg"},
+        {"name": "Abortion", "abstract": "", "img": "images/icons/ic_a_abortion.svg"}
+      ]
+    },
+    "whois":{
+      "backgroundImage": {
+        "src": "images/backgrounds/whois_animals.svg"
+      },
+      "text": "All animal species can develop symptoms.",
+      "collection": []
+    },
+    "complications":{
+      "backgroundImage": {
+        "src": "images/backgrounds/complications_animals.svg"
+      },
+      "text": "",
+      "collection": [
+        {"name": "Severe dehydration", "abstract": "", "img": "images/icons/ic_dehydration.svg"},
+        {"name": "Pneumonia", "abstract": "", "img": "images/icons/ic_pneumonia.svg"},
+        {"name": "Meningitis", "abstract": "", "img": "images/icons/ic_meningits.svg"},
+        {"name": "Arthritis", "abstract": "", "img": "images/icons/ic_arthritis.svg"},
+        {"name": "Sepsis", "abstract": "", "img": "images/icons/ic_sepsis.svg"}
+      ]
+    }
+  }
+}

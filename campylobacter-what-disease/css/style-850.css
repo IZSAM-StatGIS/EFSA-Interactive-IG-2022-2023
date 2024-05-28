@@ -1,0 +1,59 @@
+@media (min-width: 850px) {
+
+  .fl-box h1{
+    font-size: 3.2rem;
+  }
+
+  .fl-box h2{
+    font-size: 2.1rem;
+  }
+
+  .sl-box h1 {
+    font-size: 2.5rem;
+  }
+
+  .sl-box h2 {
+    font-size: 2rem;
+  }
+
+  .slb2 img {
+    height: 60%;
+  }
+
+  .slb3 img {
+    height: 55%;
+  }
+
+  .slb4 img {
+    height: 40%;
+  }
+
+
+  .d-modal-contents h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  .incubation-container span{
+    font-size: 1.1rem;
+  }
+
+  .incubation-container h3{
+    font-size: 2rem;
+    margin: 0;
+  }
+
+  .incubation-container img{
+    height: 60px;
+  }
+
+  .list-container img{
+    height: 80px;
+  }
+
+  .list-container strong{
+    font-size: 1.2rem;
+  }
+
+
+}

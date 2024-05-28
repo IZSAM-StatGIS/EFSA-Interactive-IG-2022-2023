@@ -1,0 +1,35 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg" ,"title": "Implementing <b>National Control / Eradication Programmes</b>", "info": ""},
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Use of <b>personal protective equipment</b> by workers", "info": ""},
+      {"img": "images/icons/ic_slaugh.svg" ,"title": "Culling and/or <b>slaughtering infected animals</b>", "info": ""},
+      {"img": "images/icons/ic_training_1.svg" ,"title": "Continuous <b>biosecurity training</b> for farm managers and farm workers", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Use of <b>personal protective equipment</b> by workers", "info": ""},
+      {"img": "images/icons/ic_training_1.svg", "title": "<b>Training properly</b> the food handlers", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official <b>controls</b> by competent authorities", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "Applying appropriate <b>heat or filtration</b> treatments to raw milk", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official <b>controls</b> by competent authorities", "info": ""},
+      {"img": "images/icons/ic_milk.svg" ,"title": "Ensuring that <b>milk is from farms and animals</b> that are <b>subject to official controls</b>", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behaviour","info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "<b>Avoiding</b> the consumption of <b>raw/unpasteurised milk</b> and products thereof in and from <b>endemic areas</b>", "info": ""},
+      {"img": "images/icons/ic_milk.svg", "title": "<b>Boiling</b> raw drinking <b>milk</b> before consumption", "info": ""}
+    ]
+  }
+}

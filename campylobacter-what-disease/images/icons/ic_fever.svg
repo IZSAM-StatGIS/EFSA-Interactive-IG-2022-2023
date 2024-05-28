@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.411" height="167.449" viewBox="0 0 80.411 167.449">
+  <g id="ic_fever" transform="matrix(1, 0.017, -0.017, 1, 2.907, -0.258)">
+    <circle id="Ellisse_7" data-name="Ellisse 7" cx="33.583" cy="33.583" r="33.583" transform="translate(0 99.393)" fill="#fff"/>
+    <path id="Rettangolo_3" data-name="Rettangolo 3" d="M7,0H30.65a7,7,0,0,1,7,7V107.039a1,1,0,0,1-1,1H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" transform="translate(14.759 0)" fill="#fff"/>
+    <circle id="Ellisse_8" data-name="Ellisse 8" cx="26.626" cy="26.626" r="26.626" transform="translate(6.957 106.35)" fill="#d99898"/>
+    <path id="Rettangolo_4" data-name="Rettangolo 4" d="M2.6,0h0A2.6,2.6,0,0,1,5.2,2.6V23.272a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.6A2.6,2.6,0,0,1,2.6,0Z" transform="translate(78.803 94.191) rotate(90)" fill="#fff"/>
+    <path id="Rettangolo_7" data-name="Rettangolo 7" d="M2.6,0h0A2.6,2.6,0,0,1,5.2,2.6V23.272a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.6A2.6,2.6,0,0,1,2.6,0Z" transform="translate(78.803 73.714) rotate(90)" fill="#fff"/>
+    <path id="Rettangolo_5" data-name="Rettangolo 5" d="M2.6,0h0A2.6,2.6,0,0,1,5.2,2.6V18.7a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.6A2.6,2.6,0,0,1,2.6,0Z" transform="translate(74.235 83.953) rotate(90)" fill="#fff"/>
+    <path id="Rettangolo_6" data-name="Rettangolo 6" d="M2.6,0h0A2.6,2.6,0,0,1,5.2,2.6V18.7a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.6A2.6,2.6,0,0,1,2.6,0Z" transform="translate(74.235 63.475) rotate(90)" fill="#fff"/>
+    <path id="Tracciato_7" data-name="Tracciato 7" d="M-.042.415S4.214-1.153,13.074-.421s12.9-1.9,12.9-1.9l.068,73.462H-.012Z" transform="translate(20.584 60.17)" fill="#d99898"/>
+  </g>
+</svg>

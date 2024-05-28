@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Symptoms" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #dbdbdb;
+      }
+    </style>
+  </defs>
+  <g id="Raggruppa_20" data-name="Raggruppa 20">
+    <path id="Tracciato_33-2" data-name="Tracciato 33-2" class="cls-1" d="m6.95,9.86c-.01-.68,1.8-2.88,8.91-2.88s8.29,2.5,8.3,2.88-.7,3.31-.7,6.66.7,6.74.7,6.74c0,0-.93,1.99-8.53,2.07s-8.68-2.07-8.68-2.07c0,0,.84-3.57.84-6.93s-.83-5.8-.84-6.48Z"/>
+    <path id="Tracciato_34" data-name="Tracciato 34" class="cls-2" d="m15.01,12.54c-6.33.04-7.42-1.81-7.42-1.81,0,0,.72,2.91.72,5.98s-.64,6.18-.64,6.18c0,0,.74,1.64,7.26,1.78.16,0,.51-.04.51-.33,0,0,.07-9.95.07-10.76.01-.8.05-1.05-.5-1.05Z"/>
+    <ellipse id="Ellisse_17" data-name="Ellisse 17" class="cls-2" cx="15.62" cy="9.5" rx="3.09" ry=".85"/>
+    <path id="Tracciato_37-2" data-name="Tracciato 37-2" class="cls-1" d="m24.21,11.75l2.71.63c-1.48,2.54-1.08,8.01-.28,10.8h-2.18c-.37-1.85-.59-3.72-.66-5.6-.07-2.85.41-5.83.41-5.83Z"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "temperature": {
+    "title": "Temperature",
+    "content": "Most relevant species of <i>Campylobacter</i> can grow at temperatures between 30°C and 42°C, although their optimal range is 37 to 42°C. Although they cannot grow below 30°C, they can nevertheless survive at lower temperatures and even during refrigeration at 4°C.<br><i>Campylobacter</i> are highly sensitive to heat. For example, 90% of <i>Campylobacter</i> bacteria in minced meat will be inactivated in 9 minutes at 51°C, in 4.85 min at 53°C and in 0.79 min at 57°C.",
+    "imgUrl": "images/icons/ic_therm.svg"
+  },
+  "oxygen": {
+    "title": "Oxygen",
+    "content": "<i>Campylobacter</i> are “microaerophilic” organisms, meaning that they require oxygen, but at a lower concentration (3-15%) than in the atmosphere (21%), and with a high concentration of carbon dioxide (10% CO2). ",
+    "imgUrl": "images/icons/ic_oxi.svg"
+  },
+  "ph": {
+    "title": "pH",
+    "content": "<i>Campylobacter</i> cannot survive below a pH of 4.9 or above pH 9.0. They grow optimally at a pH of 6.5 to 7.5.",
+    "imgUrl": "images/icons/ic_ph.svg"
+  },
+  "humidity": {
+    "title": "Water",
+    "content": "<i>Campylobacter</i> can grow with a water activity (a<sub>w</sub>) > 0.987. They are therefore highly sensitive to dry environments.",
+    "imgUrl": "images/icons/ic_hum.svg"
+  },
+  "salinity": {
+    "title": "Salinity",
+    "content": "<i>Campylobacter</i> have a low tolerance to salt, and cannot grow at sodium chloride concentrations above 2.0%, with optimal growth at 0.5%. These concentrations are far lower than in foods where salt is used as preservative.",
+    "imgUrl": "images/icons/ic_salinity.svg"
+  }
+
+}

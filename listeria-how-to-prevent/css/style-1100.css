@@ -1,0 +1,17 @@
+@media (min-width: 1100px) {
+
+    .card-container .card {
+        width: 24%;
+    }
+
+    .card-container .card:nth-last-child(-n+4){
+        align-self: start;
+    }
+
+    /*
+    .level-selected .level-container {
+        margin-left: 50%;
+    }
+     */
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Who_is_at_risk" data-name="Who is at risk" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1a89e;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #81b0cc;
+      }
+
+      .cls-5 {
+        fill: #92c99b;
+      }
+
+      .cls-3 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 9.9px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-4" d="m8.84,15.38c-.63,0-1.14-.51-1.14-1.14V2.77c0-.82.67-1.5,1.5-1.5h11.47c.63,0,1.14.51,1.14,1.14v11.82c0,.63-.51,1.14-1.14,1.14h-11.82Z"/>
+    <path class="cls-2" d="m20.66,1.77c.36,0,.64.29.64.64v11.82c0,.36-.29.64-.64.64h-11.82c-.36,0-.64-.29-.64-.64V2.77c0-.55.45-1,1-1h11.47m0-1h-11.47c-1.1,0-2,.9-2,2v11.47c0,.91.74,1.64,1.64,1.64h11.82c.91,0,1.64-.74,1.64-1.64V2.42c0-.91-.74-1.64-1.64-1.64h0Z"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="1.15" y="16.73" width="14.11" height="14.11" rx="1.5" ry="1.5"/>
+    <path class="cls-2" d="m13.75,17.23c.55,0,1,.45,1,1v11.11c0,.55-.45,1-1,1H2.64c-.55,0-1-.45-1-1v-11.11c0-.55.45-1,1-1h11.11m0-1H2.64c-1.1,0-2,.9-2,2v11.11c0,1.1.9,2,2,2h11.11c1.1,0,2-.9,2-2v-11.11c0-1.1-.9-2-2-2h0Z"/>
+  </g>
+  <g>
+    <path class="cls-5" d="m18.09,16.73h11.1c.83,0,1.5.67,1.5,1.5v11.1c0,.83-.67,1.5-1.5,1.5h-11.1c-.83,0-1.5-.67-1.5-1.5v-11.1c0-.83.67-1.5,1.5-1.5Z"/>
+    <path class="cls-2" d="m29.19,17.23c.55,0,1,.45,1,1v11.1c0,.55-.45,1-1,1h-11.1c-.55,0-1-.45-1-1v-11.1c0-.55.45-1,1-1h11.1m0-1h-11.1c-1.1,0-2,.9-2,2v11.1c0,1.1.9,2,2,2h11.1c1.1,0,2-.9,2-2v-11.1c0-1.1-.9-2-2-2h0Z"/>
+  </g>
+  <text class="cls-3" transform="translate(10.98 11.52)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(4.61 27.37)"><tspan x="0" y="0">B</tspan></text>
+  <text class="cls-3" transform="translate(19.92 27.37)"><tspan x="0" y="0">C</tspan></text>
+</svg>

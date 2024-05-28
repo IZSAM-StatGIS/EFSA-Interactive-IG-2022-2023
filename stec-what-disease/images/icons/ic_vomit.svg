@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Symptoms" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dbdbdb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#drop-shadow-39);
+      }
+    </style>
+    <filter id="drop-shadow-39" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood flood-color="#010101" flood-opacity=".15"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-2" d="m7.74,6.06l-.51,4.96.39.11s.4,2.98.4,3.79c0,2.04-.9,10.25-.9,10.25,0,0,11.57,1.13,14.28.92.48-.04,3.48-1.92,3.48-1.92l-2.62-18.23-3.65.11-3.18-.19-5.6.22-2.09-.04Z"/>
+  <polygon class="cls-1" points="21.75 25.53 24.46 24.05 22.32 8.55 22.45 16.9 21.75 25.53"/>
+  <polygon class="cls-1" points="7.62 11.14 7.76 12.02 19.21 11.58 20.8 11.27 13.4 11.31 7.62 11.14"/>
+</svg>
