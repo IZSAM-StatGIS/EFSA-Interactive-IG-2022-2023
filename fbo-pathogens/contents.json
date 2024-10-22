@@ -124,7 +124,7 @@
         "alt": "Illusttration for Toxins of Bacillus cereus"
       },
       "incubation": "12-36 hours (range of several hours to 8 days)",
-      "description": "<em>Botulinum</em> toxins (BoNTs) are the most potent protein poisons known to affect humans and warm-blooded animals. Since <em>C. botulinum</em> and other BoNT-producing clostridia are environmental microorganisms, they may contaminate raw material and foods. Improper canning or processing can allow the germination of spores, overgrowth, and toxin production. The consumption of a small amount of food contaminated with BoNTs can cause a severe neuro-paralytic disease named botulism.",
+      "description": "<em>Botulinum</em> neurotoxins (BoNTs) are the most potent protein poisons known to affect humans and warm-blooded animals. Since <em>C. botulinum</em> and other BoNT-producing clostridia are environmental microorganisms, they may contaminate raw material and foods. Improper canning or processing can allow the germination of spores, overgrowth, and toxin production. The consumption of a small amount of food contaminated with BoNTs can cause a severe neuro-paralytic disease named botulism.",
       "symptoms": "Vomiting, abdominal pain, fatigue, muscle weakness, headache, constipation, dry mouth and difficulty in swallowing and speaking, and ultimately paralysis and respiratory or heart failure.",
       "transmission": "The ingestion of toxin pre-formed in food. The foods typically associated with foodborne botulism are: home-canned vegetables, fermented fish products, canned meat, foods packaged in air-tight or modified-atmosphere containers stored at inappropriate refrigeration conditions.",
       "mtimage": {
