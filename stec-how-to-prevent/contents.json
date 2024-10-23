@@ -33,7 +33,7 @@
   "distribution": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_plan.svg", "title": "<b>Regular</b> and <b>proper official</b> controls by competent authorities", "info": ""},
+      {"img": "images/icons/ic_plan.svg", "title": "<b>Ensuring regular</b> and <b>proper official</b> controls by competent authorities", "info": ""},
       {"img": "images/icons/ic_check.svg", "title": "<b>Complying</b> with food <b>safety criterion</b>", "info": ""},
       {"img": "images/icons/ic_temp.svg", "title": "Constant <b>maintenance</b> of the <b>cold chain</b> during handling, transport and storage of food items", "info": ""}
     ]
