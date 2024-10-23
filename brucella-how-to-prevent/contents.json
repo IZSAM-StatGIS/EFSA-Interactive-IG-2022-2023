@@ -4,7 +4,7 @@
     "collection": [
       {"img": "images/icons/ic_plan.svg" ,"title": "Implementing <b>National Control/Eradication Programmes</b>", "info": ""},
       {"img": "images/icons/ic_vaccine.svg" ,"title": "Implementing <b>vaccination programmes</b> in enzootic areas", "info": ""},
-      {"img": "images/icons/ic_gloves.svg" ,"title": "Use of <b>personal protective equipment</b> by workers", "info": ""},
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Ensuring the use of <b>personal protective equipment</b> by workers", "info": ""},
       {"img": "images/icons/ic_slaugh.svg" ,"title": "Culling and/or <b>slaughtering infected animals</b>", "info": ""},
       {"img": "images/icons/ic_training_1.svg" ,"title": "Continuous <b>biosecurity training</b> for farm managers and farm workers", "info": ""}
     ]
