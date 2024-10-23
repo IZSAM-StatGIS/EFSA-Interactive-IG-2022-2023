@@ -29,7 +29,7 @@
   "distribution": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_mag.svg", "title": "Regular and proper <b>official controls</b> by <b>competent authorities</b>", "info": ""},
+      {"img": "images/icons/ic_mag.svg", "title": "Ensuring regular and proper <b>official controls</b> by <b>competent authorities</b>", "info": ""},
       {"img": "images/icons/ic_plan.svg", "title": "Complying with <b>food safety criteria</b>", "info": ""},
       {"img": "images/icons/ic_temp.svg", "title": "<b>Maintaining constantly</b> the <b>cold chain</b>", "info": ""}
     ]
