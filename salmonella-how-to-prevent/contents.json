@@ -17,7 +17,7 @@
     "collection": [
       {"img": "images/icons/ic_book.svg", "title": "<b>Complying</b> with <b>microbiological criteria</b> according to <b>HACCP</b> programme", "info": ""},
       {"img": "images/icons/ic_mag.svg", "title": "Conducting regular and proper <b>official controls</b> by <b>competent authorities</b>", "info": ""},
-      {"img": "images/icons/ic_gloves.svg", "title": "<b>Complying</b> with process <b>hygiene criteria</b>", "info": ""},
+      {"img": "images/icons/ic_gloves.svg", "title": "<b>Implementing</b> process <b>hygiene criteria</b>", "info": ""},
       {"img": "images/icons/ic_food_making.svg", "title": "Implementing <b>specific design</b> for <b>food-making facilities</b>", "info": ""},
       {"img": "images/icons/ic_surface.svg", "title": "Implementing <b>specific design</b> for <b>surfaces</b>, <b>tools</b> and <b>machineries</b>", "info": ""},
       {"img": "images/icons/ic_specific.svg", "title": "Making <b>surfaces “unfriendly”</b> for <i>Salmonella</i>", "info": ""},
