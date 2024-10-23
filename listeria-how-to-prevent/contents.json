@@ -5,7 +5,7 @@
       {"img": "images/icons/ic_breeders.svg" ,"title": "<b>Preventing contamination</b> through a <b>voluntary approach</b> by breeders", "info": ""},
       {"img": "images/icons/ic_biosec.svg" ,"title": "<b>Controlling</b> contamination through <b>biosecurity practices</b>, which are a set of preventive measures designed to reduce the risk of transmission of infectious diseases in crops and livestock", "info": ""},
       {"img": "images/icons/ic_hay.svg" ,"title": "<b>Ensuring proper hygiene</b> at <b>feeding areas</b>, especially where free-ranging ruminants are present and contamination with faeces is more likely", "info": ""},
-      {"img": "images/icons/ic_hay_wild.svg" ,"title": "Not discarding <b>contaminated feed</b> in areas where wildlife can access it", "info": ""},
+      {"img": "images/icons/ic_hay_wild.svg" ,"title": "Avoiding the discarding of <b>contaminated feed</b> in areas where wildlife can access it", "info": ""},
       {"img": "images/icons/ic_training.svg" ,"title": "Continuous <b>biosecurity training</b> for <b>farm managers</b> and <b>farm workers</b>", "info": ""}
     ]
   },
