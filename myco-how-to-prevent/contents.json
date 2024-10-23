@@ -11,7 +11,7 @@
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_gloves.svg" ,"title": "Use of <b>personal protective equipment</b> by workers", "info": ""},
+      {"img": "images/icons/ic_gloves.svg" ,"title": "Ensuring the use of <b>personal protective equipment</b> by workers", "info": ""},
       {"img": "images/icons/ic_training_1.svg", "title": "<b>Training properly</b> the food handlers", "info": ""},
       {"img": "images/icons/ic_plan.svg", "title": "Regular and proper official <b>controls</b> by competent authorities", "info": ""},
       {"img": "images/icons/ic_milk.svg", "title": "Applying appropriate <b>heat or filtration</b> treatments to raw milk", "info": ""}
