@@ -15,7 +15,7 @@
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_igene.svg", "title": "Good <b>hygiene practices</b> for <b>meat production</b>", "info": ""},
+      {"img": "images/icons/ic_igene.svg", "title": "Implementing good <b>hygiene practices</b> for <b>meat production</b>", "info": ""},
       {"img": "images/icons/ic_gloves_more.svg", "title": "Good <b>hygiene practices</b> for <b>food preparation</b>", "info": ""},
       {"img": "images/icons/ic_manuf.svg", "title": "Good <b>manufacturing practices</b> for <b>meat</b> and <b>meat products</b>", "info": ""},
       {"img": "images/icons/ic_book.svg", "title": "<b>Compliance</b> with <b>process hygiene criteria (PHC)</b>", "info": ""},
