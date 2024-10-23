@@ -9,7 +9,7 @@
       "backgroundImage": {
         "src": "images/backgrounds/symptoms.svg"
       },
-      "incubationPeriod": "6-76 hours",
+      "incubationPeriod": "6-72 hours",
       "text": "",
       "collection": [
         {"name": "Diarrhoea", "abstract": "Rarely with mucus or blood in the stools", "img": "images/icons/ic_diarrhoea.svg"},
