@@ -28,7 +28,7 @@
       {"img": "images/icons/ic_plan.svg", "title": "Implement proper <b>food handling processes</b>", "info": ""},
       {"img": "images/icons/ic_training.svg", "title": "Offering continuous <b>biosecurity training</b> for <b>food business operators</b>", "info": ""},
       {"img": "images/icons/ic_food_prev.svg", "title": "Ensuring strict <b>personal hygiene</b> to <b>prevent contacts</b> between food and infected food handlers", "info": ""},
-      {"img": "images/icons/ic_temp.svg", "title": "<b>Constant maintenance</b> of the <b>cold chain</b> during the handling, transport and storage of food items", "info": ""}
+      {"img": "images/icons/ic_temp.svg", "title": "<b>Maintaining</b> the <b>cold chain</b> constantly during the handling, transport and storage of food items", "info": ""}
     ]
   },
   "customer": {
