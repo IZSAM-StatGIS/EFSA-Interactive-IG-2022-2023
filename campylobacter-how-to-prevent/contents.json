@@ -3,7 +3,7 @@
   "farm": {
     "text": "Especially for poultry",
     "collection": [
-      {"img": "images/icons/ic_clothes.svg" ,"title": "Use of <b>farm-specific footwear</b> and <b>clothing</b>", "info": ""},
+      {"img": "images/icons/ic_clothes.svg" ,"title": "Using <b>farm-specific footwear</b> and <b>clothing</b>", "info": ""},
       {"img": "images/icons/ic_fac.svg" ,"title": "Presence of <b>dedicated changing facilities</b> for the <b>farm workers</b>", "info": ""},
       {"img": "images/icons/ic_bird.svg" ,"title": "<b>Slaughtering</b> at <b>younger ages</b>", "info": "35 days"},
       {"img": "images/icons/ic_flock.svg" ,"title": "<b>Discontinuing</b> the practice of <b>flock thinning</b>", "info": "Rearing the birds to the maximum permitted stocking density before removing a proportion of them"},
