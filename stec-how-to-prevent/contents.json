@@ -2,7 +2,7 @@
   "farm": {
     "text": "Especially for poultry",
     "collection": [
-      {"img": "images/icons/ic_plan.svg" ,"title": "<b>Good farming practices</b> and <b>hygiene</b> at farm", "info": ""},
+      {"img": "images/icons/ic_plan.svg" ,"title": "<b>Applying good farming practices</b> and <b>hygiene</b> at farm", "info": ""},
 
       {"img": "images/icons/ic_good agricultural practices_2.svg" ,"title": "<b>Good agricultural</b> practices", "info": ""},
       {"img": "images/icons/ic_protect_freshwater2.svg" ,"title": "<b>Protection of freshwater</b> sources and untreated drinking water supplies from contamination", "info": ""},
