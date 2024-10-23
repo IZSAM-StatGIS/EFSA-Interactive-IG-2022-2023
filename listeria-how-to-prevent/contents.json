@@ -12,7 +12,7 @@
   "manufacturing": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_book.svg", "title": "<b>Good hygiene</b> practice and <b>critical control point principles</b> (HACCP)", "info": ""},
+      {"img": "images/icons/ic_book.svg", "title": "<b>Applying good hygiene</b> practice and <b>Hazard Analysis and Critical Control Point</b> (HACCP) principles", "info": ""},
       {"img": "images/icons/ic_mag.svg", "title": "<b>Controlling</b> the <b>processing environment</b>", "info": ""},
       {"img": "images/icons/ic_surface.svg", "title": "<b>Choosing equipment</b> that ensures effective <b>cleaning-disinfection</b> and <b>drying procedures</b>", "info": ""},
       {"img": "images/icons/ic_plan.svg", "title": "<b>Implementing</b> a <b>monitoring plan</b> for food, processing materials and the environment", "info": ""},
