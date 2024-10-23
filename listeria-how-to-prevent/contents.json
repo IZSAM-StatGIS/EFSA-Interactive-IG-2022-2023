@@ -28,7 +28,7 @@
     "collection": [
       {"img": "images/icons/ic_book.svg", "title": "<b>Applying good hygiene</b> practice and <b>Hazard Analysis and Critical Control Point</b> (HACCP) principles", "info": ""},
       {"img": "images/icons/ic_mag.svg", "title": "<b>Controlling</b> the <b>environment</b> and <b>equipment</b> to ensure effective cleaning-disinfection", "info": ""},
-      {"img": "images/icons/ic_temp.svg", "title": "Constant maintenance of the <b>cold chain</b>", "info": ""}
+      {"img": "images/icons/ic_temp.svg", "title": "Maintaining the <b>cold chain</b> constantly", "info": ""}
     ]
   },
   "customer": {
