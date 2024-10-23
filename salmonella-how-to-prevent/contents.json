@@ -9,7 +9,7 @@
       {"img": "images/icons/ic_rod.svg" ,"title": "<b>Controlling rodents</b> and <b>pests</b>", "info": ""},
       {"img": "images/icons/ic_vaccine.svg" ,"title": "Implementing <b>vaccination programmes</b>", "info": ""},
       {"img": "images/icons/ic_flock.svg" ,"title": "Culling and/or <b>slaughtering infected flocks</b>", "info": ""},
-      {"img": "images/icons/ic_training.svg" ,"title": "Continuous <b>biosecurity training</b> for <b>farm managers</b> and <b>farm workers</b>", "info": ""}
+      {"img": "images/icons/ic_training.svg" ,"title": "Organising continuous <b>biosecurity training</b> for <b>farm managers</b> and <b>farm workers</b>", "info": ""}
     ]
   },
   "manufacturing": {
