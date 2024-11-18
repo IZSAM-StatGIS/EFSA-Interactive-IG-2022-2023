@@ -34,7 +34,7 @@
   "customer": {
     "text": "",
     "collection": [
-      {"img": "images/icons/ic_key.svg", "title": "the<br><b>WHO Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
+      {"img": "images/icons/ic_key.svg", "title": "Implementing the <b>“Five Keys to Safer Food”</b>, which were developed by <b>WHO</b> to educate consumers and food handlers on safe food handling behavior", "info": "<small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
       {"img": "images/icons/ic_meat_wash.svg", "title": "<b>Avoid</b> the practice of <b>washing raw meat</b>", "info": ""},
       {"img": "images/icons/ic_priv_water.svg", "title": "<b>Avoid</b> the <b>use of private water</b> wells for <b>drinking</b> or <b>food preparation</b>", "info": ""}
     ]
